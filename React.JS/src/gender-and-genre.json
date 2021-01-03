@@ -1,0 +1,402 @@
+{
+    "BTS": [
+        "Other",
+        "Pop"
+    ],
+    "Ariana Grande": [
+        "Female",
+        "Pop"
+    ],
+    "Shawn Mendes": [
+        "Male",
+        "Pop"
+    ],
+    "Pentatonix": [
+        "Other",
+        "Pop"
+    ],
+    "Mariah Carey": [
+        "Female",
+        "Pop"
+    ],
+    "Michael Buble": [
+        "Male",
+        "Jazz"
+    ],
+    "Luke Combs": [
+        "Male",
+        "Country"
+    ],
+    "Billie Eilish": [
+        "Female",
+        "Pop"
+    ],
+    "Morgan Wallen": [
+        "Male",
+        "Country"
+    ],
+    "Bad Bunny": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Bing Crosby": [
+        "Male",
+        "Jazz"
+    ],
+    "Carrie Underwood": [
+        "Female",
+        "Country"
+    ],
+    "Justin Bieber": [
+        "Male",
+        "Pop"
+    ],
+    "Juice WRLD": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "The Weeknd": [
+        "Male",
+        "Pop"
+    ],
+    "Lil Baby": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Harry Styles": [
+        "Male",
+        "Pop"
+    ],
+    "Andy Williams": [
+        "Male",
+        "Pop"
+    ],
+    "Taylor Swift": [
+        "Female",
+        "Pop"
+    ],
+    "Nat King Cole": [
+        "Male",
+        "Jazz"
+    ],
+    "Megan Thee Stallion": [
+        "Female",
+        "Hip-Hop"
+    ],
+    "Chris Stapleton": [
+        "Male",
+        "Country"
+    ],
+    "Frank Sinatra": [
+        "Male",
+        "Jazz"
+    ],
+    "Pop Smoke": [
+        "Male",
+        "Pop"
+    ],
+    "Post Malone": [
+        "Male",
+        "Pop"
+    ],
+    "Dolly Parton": [
+        "Female",
+        "Country"
+    ],
+    "Dua Lipa": [
+        "Female",
+        "Pop"
+    ],
+    "Drake": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Vince Guaraldi Trio": [
+        "Male",
+        "Jazz"
+    ],
+    "DaBaby": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "The Beatles": [
+        "Other",
+        "Rock"
+    ],
+    "Brenda Lee": [
+        "Female",
+        "Rock"
+    ],
+    "Miley Cyrus": [
+        "Female",
+        "Pop"
+    ],
+    "Gabby Barrett": [
+        "Female",
+        "Country"
+    ],
+    "AC/DC": [
+        "Other",
+        "Rock"
+    ],
+    "Dean Martin": [
+        "Male",
+        "Jazz"
+    ],
+    "Gene Autry": [
+        "Male",
+        "Country"
+    ],
+    "Dan + Shay": [
+        "Male",
+        "Pop"
+    ],
+    "Burl Ives": [
+        "Male",
+        "Country"
+    ],
+    "Elvis Presley": [
+        "Male",
+        "Rock"
+    ],
+    "Queen": [
+        "Other",
+        "Rock"
+    ],
+    "Trans-Siberian Orchestra": [
+        "Other",
+        "Rock"
+    ],
+    "24kGoldn": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Kelly Clarkson": [
+        "Female",
+        "Pop"
+    ],
+    "Bobby Helms": [
+        "Male",
+        "Country"
+    ],
+    "Ava Max": [
+        "Female",
+        "Pop"
+    ],
+    "Fleetwood Mac": [
+        "Other",
+        "Rock"
+    ],
+    "Lewis Capaldi": [
+        "Male",
+        "R&B"
+    ],
+    "Josh Groban": [
+        "Male",
+        "Jazz"
+    ],
+    "The Kid LAROI": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Eagles": [
+        "Other",
+        "Rock"
+    ],
+    "The White Stripes": [
+        "Male",
+        "Pop"
+    ],
+    "AJR": [
+        "Other",
+        "Indie"
+    ],
+    "Khalid": [
+        "Male",
+        "Pop"
+    ],
+    "Blake Shelton": [
+        "Male",
+        "Country"
+    ],
+    "Young Thug": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Roddy Ricch": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Wham!": [
+        "Male",
+        "Pop"
+    ],
+    "Sam Smith": [
+        "Male",
+        "Pop"
+    ],
+    "Perry Como": [
+        "Male",
+        "Pop"
+    ],
+    "Jose Feliciano": [
+        "Male",
+        "Pop"
+    ],
+    "Lee Brice": [
+        "Male",
+        "Country"
+    ],
+    "Chris Brown": [
+        "Male",
+        "Pop"
+    ],
+    "Gwen Stefani": [
+        "Female",
+        "Pop"
+    ],
+    "Travis Scott": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "The Ronettes": [
+        "Other",
+        "Pop"
+    ],
+    "Kane Brown": [
+        "Male",
+        "Country"
+    ],
+    "Lil Nas X": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Bruce Springsteen & The E Street Band": [
+        "Male",
+        "Rock"
+    ],
+    "Darlene Love": [
+        "Female",
+        "Jazz"
+    ],
+    "Halsey": [
+        "Female",
+        "Pop"
+    ],
+    "NCT": [
+        "Male",
+        "Pop"
+    ],
+    "TWICE": [
+        "Other",
+        "Pop"
+    ],
+    "Russell Dickerson": [
+        "Male",
+        "Country"
+    ],
+    "The Beach Boys": [
+        "Other",
+        "Rock"
+    ],
+    "Jack Harlow": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Polo G": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Jon Pardi": [
+        "Male",
+        "Country"
+    ],
+    "Garth Brooks": [
+        "Male",
+        "Country"
+    ],
+    "King Von": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Chris Lane": [
+        "Male",
+        "Country"
+    ],
+    "Ed Sheeran": [
+        "Male",
+        "Pop"
+    ],
+    "Johnny Mathis": [
+        "Male",
+        "Jazz"
+    ],
+    "Moneybagg Yo": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Nirvana": [
+        "Other",
+        "Pop"
+    ],
+    "H.E.R.": [
+        "Female",
+        "R&B"
+    ],
+    "Lil Durk": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "The Jacksons": [
+        "Other",
+        "Pop"
+    ],
+    "Jason Derulo": [
+        "Male",
+        "Pop"
+    ],
+    "John Legend": [
+        "Male",
+        "Pop"
+    ],
+    "Jhene Aiko": [
+        "Female",
+        "Pop"
+    ],
+    "Andrea Bocelli": [
+        "Male",
+        "Pop"
+    ],
+    "Chuck Berry": [
+        "Male",
+        "Rock"
+    ],
+    "Michael Jackson": [
+        "Male",
+        "Pop"
+    ],
+    "Stevie Wonder": [
+        "Male",
+        "Jazz"
+    ],
+    "Parker McCollum": [
+        "Male",
+        "Country"
+    ],
+    "Pink Floyd": [
+        "Other",
+        "Pop"
+    ],
+    "Paul McCartney": [
+        "Male",
+        "Rock"
+    ],
+    "blackbear": [
+        "Male",
+        "Pop"
+    ],
+    "Machine Gun Kelly": [
+        "Male",
+        "Pop"
+    ]
+}
