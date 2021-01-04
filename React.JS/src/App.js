@@ -759,7 +759,7 @@ class BubbleChart extends React.Component {
       //{ label: "Alternative Female", x: 108, y: WordFemaleAlternativeData, z: WordFemaleAlternativeData*1000.0 },
       //{ label: "Alternative Other", x: 180, y: WordOtherAlternativeData, z: WordOtherAlternativeData*1000.0 },
       { label: "Country", label2:"Male", label3:submission, label4: WordMaleCountryData,    x: 120-60-2, y: 70, z: WordMaleCountryData*WordMaleCountryData },
-      { label: "Country", label2:"Female",  label3:submission, label4: WordMaleCountryData,   x: 120-60-2, y: 95, z: WordFemaleCountryData*WordFemaleCountryData },
+      { label: "Country", label2:"Female",  label3:submission, label4: WordFemaleCountryData,   x: 120-60-2, y: 95, z: WordFemaleCountryData*WordFemaleCountryData },
       { label: "Country", label2:"Other",  label3:submission, label4: WordOtherCountryData,    x: 110-55, y: 80, z: WordOtherCountryData*WordOtherCountryData},
       { label: "Jazz", label2:"Male",  label3:submission, label4: WordMaleJazzData,   x: 29, y: 125-10, z: WordMaleJazzData*WordMaleJazzData },
       { label: "Jazz", label2:"Female",  label3:submission, label4: WordFemaleJazzData,   x: 33-2, y: 135-25, z: WordFemaleJazzData*WordFemaleJazzData },
