@@ -332,7 +332,7 @@ class NameForm extends React.Component {
       OtherPunkData = OtherData["Punk"];
       WordOtherPunkData=OtherPunkData[this.state.value];
 
-    
+      
     
     
     
@@ -352,7 +352,9 @@ class NameForm extends React.Component {
 
           <input type="text" value={this.state.value} onChange={this.handleChange} />
         </label>
-        <input type="submit" value="Submit"/>
+        <p></p>
+        <input class="button button1" type="submit" value="Submit"/>
+        
         
         
         
@@ -503,6 +505,9 @@ class BubbleChart extends React.Component {
     fontSize: 30
     },*/
     axisX: {
+      minimum: 27,
+      maximum: 65,
+
       gridThickness: 0,
       tickLength: 0,
       lineThickness: 0,
@@ -514,6 +519,8 @@ class BubbleChart extends React.Component {
     logarithmic: true
     },
     axisY: {
+      minimum: 0,
+      maximum: 200,
       gridThickness: 0,
       tickLength: 0,
       lineThickness: 0,
@@ -527,7 +534,7 @@ class BubbleChart extends React.Component {
     data: [{
       
       type: "bubble",
-      indexLabel: "{label}",
+      indexLabel: "{label} {label2}",
       indexLabelFontSize: 13,
       toolTipContent: "<b>{label2} {label}</b><br>Frequncy of ( {label3} ): {label4} <br> ",
       dataPoints: [
@@ -571,7 +578,7 @@ class BubbleChart extends React.Component {
         //{ label: "Female", label2:"Female", label3:submission,   x: 120, y: NaN, z: NaN},
         //{ label: "Other", label2:"Other",  label3:submission,   x: 180, y: NaN, z: NaN },
 
-
+        
         { label: "Pop", label2:"Male", label3:submission, label4: WordMalePopData, x: 60, y: WordMaleCountryData, z: (WordMalePopData*WordMalePopData)/1000 },
       { label: "Pop", label2:"Female", label3:submission, label4: WordFemalePopData,  x: 60, y: WordMaleCountryData, z: WordFemalePopData*WordFemalePopData/1000 },
       { label: "Pop", label2:"Other", label3:submission, label4: WordOtherPopData,    x: 60, y: WordMaleCountryData, z: WordOtherPopData*WordFemalePopData/1000 },
@@ -602,7 +609,7 @@ class BubbleChart extends React.Component {
       { label: "Metal", label2:"Male", label3:submission, label4: WordMaleMetalData,    x: 60, y: WordMaleMetalData, z: WordMaleMetalData*WordMaleMetalData/1000 },
       { label: "Metal", label2:"Female",  label3:submission, label4: WordFemaleMetalData,   x: 120, y: WordFemaleMetalData, z: WordFemaleMetalData*WordFemaleMetalData/1000 },
       { label: "Metal", label2:"Other",  label3:submission, label4: WordOtherMetalData,    x: 180, y: WordOtherMetalData, z: WordOtherMetalData*WordOtherMetalData/1000 },
-      { label: "Folk", label2:"Male",  label3:submission, label4: WordMaleFolkData,   x: 60, y: WordMaleFolkData, z: WordMaleJazzData*WordMaleJazzData/1000},
+      { label: "Folk", label2:"Male",  label3:submission, label4: WordMaleFolkData,   x: 60, y: WordMaleFolkData, z: WordMaleFolkData*WordMaleFolkData/1000},
       { label: "Folk", label2:"Female", label3:submission, label4: WordFemaleFolkData,    x: 120, y: WordFemaleFolkData, z: WordFemaleFolkData*WordFemaleFolkData/1000 },
       { label: "Folk", label2:"Other",  label3:submission, label4: WordOtherFolkData,    x: 180, y: WordOtherFolkData, z: WordOtherFolkData*WordOtherFolkData/1000 },
       { label: "Punk", label2:"Male", label3:submission,  label4: WordMalePunkData,   x: 60, y: WordMalePunkData, z: WordMalePunkData*WordMalePunkData/1000 },
@@ -618,8 +625,8 @@ class BubbleChart extends React.Component {
     var length = this.chart1.options.data[0].dataPoints.length;
     var i
     for (i = 0; i < length; i++) { //clears the data
-      this.chart1.options.data[0].dataPoints[i].label = ""
-      this.chart1.options.data[0].dataPoints[i].label2 = ""
+      this.chart1.options.data[0].dataPoints[i].label = " "
+      this.chart1.options.data[0].dataPoints[i].label2 = " "
       this.chart1.options.data[0].dataPoints[i].label2 = 0
       this.chart1.options.data[0].dataPoints[i].label3 = 0
       this.chart1.options.data[0].dataPoints[i].x = NaN
@@ -629,42 +636,43 @@ class BubbleChart extends React.Component {
     let id = this.chart1.container.id;
     this.chart1.destroy();
     this.options.data[0].dataPoints.push(
-      { label: "Pop", label2:"Male", label3:submission, label4: WordMalePopData, x: 30,y: 30, z: (WordMalePopData*WordMalePopData)/100 },
-      { label: "Pop", label2:"Female", label3:submission, label4: WordFemalePopData,   x: 35, y: 50, z: WordFemalePopData*WordFemalePopData/100 },
-      { label: "Pop", label2:"Other", label3:submission, label4: WordOtherPopData,    x: 30, y: 70, z: WordOtherPopData*WordFemalePopData/100 },
-      { label: "Hip-Hop", label2:"Male", label3:submission, label4: WordMaleHipHopData,   x: 70, y: 70, z: WordMaleHipHopData*WordMaleHipHopData/100 },
-      { label: "Hip-Hop", label2:"Female", label3:submission, label4: WordFemaleHipHopData,    x: 75, y: 90, z: WordFemaleHipHopData*WordFemaleHipHopData/100 },
-      { label: "Hip-Hop", label2:"Other",  label3:submission, label4: WordOtherHipHopData,    x: 80, y: 65, z: WordOtherHipHopData*WordOtherHipHopData/100},
-      { label: "Rock", label2:"Male",  label3:submission, label4: WordMaleRockData,   x: 50, y: 150, z: WordMaleRockData*WordMaleRockData/100 },
-      { label: "Rock", label2:"Female", label3:submission, label4: WordFemaleRockData,    x: 45, y: 145, z: WordFemaleRockData*WordFemaleRockData/100},
-      { label: "Rock", label2:"Other",  label3:submission, label4: WordOtherRockData,    x: 51, y: 168, z: WordOtherRockData*WordOtherRockData/100},
+      
+      { label: "Pop", label2:"Male", label3:submission, label4: WordMalePopData, x: 30+0.5,y: 30, z: (WordMalePopData*WordMalePopData)/100 },
+      { label: "Pop", label2:"Female", label3:submission, label4: WordFemalePopData,   x: 35-3, y: 50, z: WordFemalePopData*WordFemalePopData/100 },
+      { label: "Pop", label2:"Other", label3:submission, label4: WordOtherPopData,    x: 30+0.5, y: 70-10, z: WordOtherPopData*WordFemalePopData/100 },
+      { label: "Hip-Hop", label2:"Male", label3:submission, label4: WordMaleHipHopData,   x: 70-25+2, y: 70-10, z: WordMaleHipHopData*WordMaleHipHopData/100 },
+      { label: "Hip-Hop", label2:"Female", label3:submission, label4: WordFemaleHipHopData,    x: 75-27, y: 90-10, z: WordFemaleHipHopData*WordFemaleHipHopData/100 },
+      { label: "Hip-Hop", label2:"Other",  label3:submission, label4: WordOtherHipHopData,    x: 80-30, y: 65-10, z: WordOtherHipHopData*WordOtherHipHopData/100},
+      { label: "Rock", label2:"Male",  label3:submission, label4: WordMaleRockData,   x: 50-20, y: 150+12, z: WordMaleRockData*WordMaleRockData/100 },
+      { label: "Rock", label2:"Female", label3:submission, label4: WordFemaleRockData,    x: 45-14, y: 145+10, z: WordFemaleRockData*WordFemaleRockData/100},
+      { label: "Rock", label2:"Other",  label3:submission, label4: WordOtherRockData,    x: 51-20, y: 168+4, z: WordOtherRockData*WordOtherRockData/100},
       { label: "Soul", label2:"Male",  label3:submission, label4: WordMaleSoulData,   x: 60, y: 20, z: WordMaleSoulData*WordMaleSoulData/100},
       { label: "Soul", label2:"Female", label3:submission, label4: WordFemaleSoulData,    x: 62, y: 30, z: WordFemaleSoulData*WordFemaleSoulData/100 },
       { label: "Soul", label2:"Other",  label3:submission, label4: WordOtherSoulData,    x: 57, y: 32,  z: WordOtherSoulData*WordOtherSoulData/100 },
-      { label: "EDM", label2:"Male", label3:submission, label4: WordMaleEDMData,    x: 100, y: 210, z: WordMaleEDMData*WordMaleEDMData/100 },
-      { label: "EDM", label2:"Female",  label3:submission, label4: WordFemaleEDMData,   x: 105, y: 200, z: WordFemaleEDMData*WordFemaleEDMData/100},
-      { label: "EDM", label2:"Other",  label3:submission, label4: WordOtherEDMData,    x: 103, y: 190, z: WordOtherEDMData*WordOtherEDMData/100 },
-      { label: "R&B", label2:"Male",  label3:submission, label4: WordMaleRBData,   x: 58, y: 195, z: WordMaleRBData*WordMaleRBData/100 },
-      { label: "R&B", label2:"Female",  label3:submission, label4: WordFemaleRBData,   x: 63, y: 190, z: WordFemaleRBData*WordFemaleRBData/100 },
-      { label: "R&B", label2:"Other",  label3:submission, label4: WordOtherRBData,    x: 61, y: 205, z: WordOtherRBData*WordOtherRBData/100 },
+      { label: "EDM", label2:"Male", label3:submission, label4: WordMaleEDMData,    x: 100-50+2, y: 210-30, z: WordMaleEDMData*WordMaleEDMData/100 },
+      { label: "EDM", label2:"Female",  label3:submission, label4: WordFemaleEDMData,   x: 105-50, y: 200-30, z: WordFemaleEDMData*WordFemaleEDMData/100},
+      { label: "EDM", label2:"Other",  label3:submission, label4: WordOtherEDMData,    x: 103-50, y: 190-30, z: WordOtherEDMData*WordOtherEDMData/100 },
+      { label: "R&B", label2:"Male",  label3:submission, label4: WordMaleRBData,   x: 58-20+2, y: 195-30, z: WordMaleRBData*WordMaleRBData/100 },
+      { label: "R&B", label2:"Female",  label3:submission, label4: WordFemaleRBData,   x: 63-20, y: 190-30, z: WordFemaleRBData*WordFemaleRBData/100 },
+      { label: "R&B", label2:"Other",  label3:submission, label4: WordOtherRBData,    x: 61-20, y: 205-30, z: WordOtherRBData*WordOtherRBData/100 },
       //{ label: "Alternative Male", x: 36, y: WordMaleAlternativeData, z: WordMaleAlternativeData*1000.0 },
       //{ label: "Alternative Female", x: 108, y: WordFemaleAlternativeData, z: WordFemaleAlternativeData*1000.0 },
       //{ label: "Alternative Other", x: 180, y: WordOtherAlternativeData, z: WordOtherAlternativeData*1000.0 },
-      { label: "Country", label2:"Male", label3:submission, label4: WordMaleCountryData,    x: 120, y: 70, z: WordMaleCountryData*WordMaleCountryData/100 },
-      { label: "Country", label2:"Female",  label3:submission, label4: WordMaleCountryData,   x: 120, y: 95, z: WordFemaleCountryData*WordFemaleCountryData/100 },
-      { label: "Country", label2:"Other",  label3:submission, label4: WordOtherCountryData,    x: 110, y: 80, z: WordOtherCountryData*WordOtherCountryData/100},
-      { label: "Jazz", label2:"Male",  label3:submission, label4: WordMaleJazzData,   x: 29, y: 125, z: WordMaleJazzData*WordMaleJazzData/100 },
-      { label: "Jazz", label2:"Female",  label3:submission, label4: WordFemaleJazzData,   x: 33, y: 135, z: WordFemaleJazzData*WordFemaleJazzData/100 },
-      { label: "Jazz", label2:"Other", label3:submission, label4: WordOtherJazzData,     x: 30, y: 142, z: WordOtherJazzData*WordOtherJazzData/100 },
-      { label: "Metal", label2:"Male", label3:submission, label4: WordMaleMetalData,    x: 45, y: 50, z: WordMaleMetalData*WordMaleMetalData/100 },
-      { label: "Metal", label2:"Female",  label3:submission, label4: WordFemaleMetalData,   x: 47, y: 65, z: WordFemaleMetalData*WordFemaleMetalData/100 },
-      { label: "Metal", label2:"Other",  label3:submission, label4: WordOtherMetalData,    x: 50, y: 46, z: WordOtherMetalData*WordOtherMetalData/100 },
-      { label: "Folk", label2:"Male",  label3:submission, label4: WordMaleFolkData,   x: 100, y: 100, z: WordMaleJazzData*WordMaleJazzData/100},
-      { label: "Folk", label2:"Female", label3:submission, label4: WordFemaleFolkData,    x: 85, y: 105, z: WordFemaleFolkData*WordFemaleFolkData/100 },
-      { label: "Folk", label2:"Other",  label3:submission, label4: WordOtherFolkData,    x: 95, y: 115, z: WordOtherFolkData*WordOtherFolkData/100 },
-      { label: "Punk", label2:"Male", label3:submission,  label4: WordMalePunkData,   x: 160, y: 50, z: WordMalePunkData*WordMalePunkData/100 },
-      { label: "Punk", label2:"Female", label3:submission, label4: WordFemalePunkData,    x: 150, y: 57, z: WordFemalePunkData*WordFemalePunkData/100},
-      { label: "Punk", label2:"Other",  label3:submission,  label4: WordOtherPunkData,   x: 150, y: 43, z: WordOtherPunkData*WordOtherPunkData/100 },
+      { label: "Country", label2:"Male", label3:submission, label4: WordMaleCountryData,    x: 120-60-2, y: 70, z: WordMaleCountryData*WordMaleCountryData/100 },
+      { label: "Country", label2:"Female",  label3:submission, label4: WordMaleCountryData,   x: 120-60-2, y: 95, z: WordFemaleCountryData*WordFemaleCountryData/100 },
+      { label: "Country", label2:"Other",  label3:submission, label4: WordOtherCountryData,    x: 110-55, y: 80, z: WordOtherCountryData*WordOtherCountryData/100},
+      { label: "Jazz", label2:"Male",  label3:submission, label4: WordMaleJazzData,   x: 29, y: 125-10, z: WordMaleJazzData*WordMaleJazzData/100 },
+      { label: "Jazz", label2:"Female",  label3:submission, label4: WordFemaleJazzData,   x: 33-2, y: 135-25, z: WordFemaleJazzData*WordFemaleJazzData/100 },
+      { label: "Jazz", label2:"Other", label3:submission, label4: WordOtherJazzData,     x: 30, y: 142-22, z: WordOtherJazzData*WordOtherJazzData/100 },
+      { label: "Metal", label2:"Male", label3:submission, label4: WordMaleMetalData,    x: 45-10, y: 50+70, z: WordMaleMetalData*WordMaleMetalData/100 },
+      { label: "Metal", label2:"Female",  label3:submission, label4: WordFemaleMetalData,   x: 47-11, y: 65+65, z: WordFemaleMetalData*WordFemaleMetalData/100 },
+      { label: "Metal", label2:"Other",  label3:submission, label4: WordOtherMetalData,    x: 50-14+1, y: 46+70, z: WordOtherMetalData*WordOtherMetalData/100 },
+      { label: "Folk", label2:"Male",  label3:submission, label4: WordMaleFolkData,   x: 100-20-30, y: 100+20, z: WordMaleFolkData*WordMaleFolkData/100},
+      { label: "Folk", label2:"Female", label3:submission, label4: WordFemaleFolkData,    x: 85-20-20, y: 105+20, z: WordFemaleFolkData*WordFemaleFolkData/100 },
+      { label: "Folk", label2:"Other",  label3:submission, label4: WordOtherFolkData,    x: 95-20-27, y: 115, z: WordOtherFolkData*WordOtherFolkData/100 },
+      { label: "Punk", label2:"Male", label3:submission,  label4: WordMalePunkData,   x: 160-125+3, y: 50+30-10, z: WordMalePunkData*WordMalePunkData/100 },
+      { label: "Punk", label2:"Female", label3:submission, label4: WordFemalePunkData,    x: 150-110, y: 57+30-10, z: WordFemalePunkData*WordFemalePunkData/100},
+      { label: "Punk", label2:"Other",  label3:submission,  label4: WordOtherPunkData,   x: 150-114.5+5, y: 43+30-15, z: WordOtherPunkData*WordOtherPunkData/100 },
         );
     this.chart1 = new CanvasJS.Chart(id, this.options);
     this.chart1.render();
@@ -673,13 +681,16 @@ class BubbleChart extends React.Component {
     return (
       
       <div className="BubbleDisplay">
+        <button class="button button1" onClick={this.updateChart}><span>Update Chart</span></button>
         <h3>Frequency of the Inputed Lyric in each Genre: {submission}</h3>
 
         <CanvasJSChart
           options={this.options}
           onRef={ref => (this.chart1 = ref)}
         />
-        <button onClick={this.updateChart}>Update Chart</button>
+        
+        
+        
       </div>
     );
 
@@ -724,12 +735,6 @@ function App() {
         <div className="FormSubmit">
         <NameForm/>
         </div>
-        
-        <p>
-
-
-
-        </p> 
       
       <BubbleChart/>
       <p>
