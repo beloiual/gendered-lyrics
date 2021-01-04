@@ -333,12 +333,112 @@ class NameForm extends React.Component {
       WordOtherPunkData=OtherPunkData[this.state.value];
 
       
+if(WordMalePopData===undefined){
+  WordMalePopData=0;
+}
+
+if(WordMaleHipHopData===undefined){
+  WordMaleHipHopData=0;
+}
+
+
+if(WordMaleRockData===undefined){
+  WordMaleRockData=0;}
+
+if(WordMaleSoulData===undefined){
+  WordMaleSoulData=0;}
+
+if(WordMaleEDMData===undefined){
+  WordMaleEDMData=0;}
+
+if(WordMaleRBData===undefined){
+  WordMaleRBData=0;}
+
+if(WordMaleAltenativeData===undefined){
+  WordMaleAltenativeData=0;}
+
+
+
+if(WordMaleCountryData===undefined){
+  WordMaleCountryData=0;}
+
+if(WordMaleJazzData===undefined){
+  WordMaleJazzData=0;}
+
+if(WordMaleMetalData===undefined){
+  WordMaleMetalData=0;}
+
+if(WordMaleFolkData===undefined){
+  WordMaleFolkData=0;}
+
+if(WordMalePunkData===undefined){
+  WordMalePunkData=0;}
+
+if(WordFemalePopData===undefined){
+  WordFemalePopData=0;}
+if(WordFemaleHipHopData===undefined){
+  WordFemaleHipHopData=0;}
+ if(WordFemaleRockData===undefined){
+  WordFemaleRockData=0;}
+ 
+if(WordFemaleSoulData===undefined){
+  WordFemaleSoulData=0;}
+ 
+if(WordFemaleEDMData===undefined){
+  WordFemaleEDMData=0;}
+  
+if(WordFemaleRBData===undefined){
+  WordFemaleRBData=0;}
+if(WordFemaleAltenativeData===undefined){
+  WordFemaleAltenativeData=0;}
+
+if(WordFemaleCountryData===undefined){
+  WordFemaleCountryData=0;}
+ 
+if(WordFemaleJazzData===undefined){
+  WordFemaleJazzData=0;}
+
+if(WordFemaleMetalData===undefined){
+  WordFemaleMetalData=0;}
+if(WordFemaleFolkData===undefined){
+  WordFemaleFolkData=0;}
+if(WordFemalePunkData===undefined){
+  WordFemalePunkData=0;}
+if(WordOtherPopData===undefined){
+  WordOtherPopData=0;}
+if(WordOtherHipHopData===undefined){
+  WordOtherHipHopData=0;}
+if(WordOtherRockData===undefined){
+  WordOtherRockData=0;}
+if(WordOtherSoulData===undefined){
+  WordOtherSoulData=0;}
+
+if(WordOtherEDMData===undefined){
+  WordOtherEDMData=0;}
+
+if(WordOtherRBData===undefined){
+  WordOtherRBData=0;}
+
+if(WordOtherAltenativeData===undefined){
+  WordOtherAltenativeData=0;}
+
+if(WordOtherCountryData===undefined){
+  WordOtherCountryData=0;}
+ 
+if(WordOtherJazzData===undefined){
+  WordOtherJazzData=0;}
+
+if(WordOtherMetalData===undefined){
+  WordOtherMetalData=0;}
+
+if(WordOtherFolkData===undefined){
+  WordOtherFolkData=0;}
+
+if(WordOtherPunkData===undefined){
+  WordOtherPunkData=0;}
     
     
-    
-    
-    
-    
+  
   
     
   }
@@ -534,9 +634,9 @@ class BubbleChart extends React.Component {
     data: [{
       
       type: "bubble",
-      indexLabel: "{label} {label2}",
-      indexLabelFontSize: 13,
-      toolTipContent: "<b>{label2} {label}</b><br>Frequncy of ( {label3} ): {label4} <br> ",
+      indexLabel: "{label}: {label2}",
+      indexLabelFontSize: 14,
+      toolTipContent: "<b>{label2} {label} Artists</b><br>Frequncy of the word  {label3} : {label4} <br> ",
       dataPoints: [
         /*{ label: "Pop", label2:"Male", label3:submission, x: 60,y: WordMalePopData, z: WordMalePopData*WordMalePopData },
         { label: "Pop", label2:"Female", label3:submission,  x: 120, y: WordFemalePopData, z: WordFemalePopData*WordFemalePopData },
@@ -637,42 +737,42 @@ class BubbleChart extends React.Component {
     this.chart1.destroy();
     this.options.data[0].dataPoints.push(
       
-      { label: "Pop", label2:"Male", label3:submission, label4: WordMalePopData, x: 30+0.5,y: 30, z: (WordMalePopData*WordMalePopData)/100 },
-      { label: "Pop", label2:"Female", label3:submission, label4: WordFemalePopData,   x: 35-3, y: 50, z: WordFemalePopData*WordFemalePopData/100 },
-      { label: "Pop", label2:"Other", label3:submission, label4: WordOtherPopData,    x: 30+0.5, y: 70-10, z: WordOtherPopData*WordFemalePopData/100 },
-      { label: "Hip-Hop", label2:"Male", label3:submission, label4: WordMaleHipHopData,   x: 70-25+2, y: 70-10, z: WordMaleHipHopData*WordMaleHipHopData/100 },
-      { label: "Hip-Hop", label2:"Female", label3:submission, label4: WordFemaleHipHopData,    x: 75-27, y: 90-10, z: WordFemaleHipHopData*WordFemaleHipHopData/100 },
-      { label: "Hip-Hop", label2:"Other",  label3:submission, label4: WordOtherHipHopData,    x: 80-30, y: 65-10, z: WordOtherHipHopData*WordOtherHipHopData/100},
-      { label: "Rock", label2:"Male",  label3:submission, label4: WordMaleRockData,   x: 50-20, y: 150+12, z: WordMaleRockData*WordMaleRockData/100 },
-      { label: "Rock", label2:"Female", label3:submission, label4: WordFemaleRockData,    x: 45-14, y: 145+10, z: WordFemaleRockData*WordFemaleRockData/100},
-      { label: "Rock", label2:"Other",  label3:submission, label4: WordOtherRockData,    x: 51-20, y: 168+4, z: WordOtherRockData*WordOtherRockData/100},
-      { label: "Soul", label2:"Male",  label3:submission, label4: WordMaleSoulData,   x: 60, y: 20, z: WordMaleSoulData*WordMaleSoulData/100},
-      { label: "Soul", label2:"Female", label3:submission, label4: WordFemaleSoulData,    x: 62, y: 30, z: WordFemaleSoulData*WordFemaleSoulData/100 },
-      { label: "Soul", label2:"Other",  label3:submission, label4: WordOtherSoulData,    x: 57, y: 32,  z: WordOtherSoulData*WordOtherSoulData/100 },
-      { label: "EDM", label2:"Male", label3:submission, label4: WordMaleEDMData,    x: 100-50+2, y: 210-30, z: WordMaleEDMData*WordMaleEDMData/100 },
-      { label: "EDM", label2:"Female",  label3:submission, label4: WordFemaleEDMData,   x: 105-50, y: 200-30, z: WordFemaleEDMData*WordFemaleEDMData/100},
-      { label: "EDM", label2:"Other",  label3:submission, label4: WordOtherEDMData,    x: 103-50, y: 190-30, z: WordOtherEDMData*WordOtherEDMData/100 },
-      { label: "R&B", label2:"Male",  label3:submission, label4: WordMaleRBData,   x: 58-20+2, y: 195-30, z: WordMaleRBData*WordMaleRBData/100 },
-      { label: "R&B", label2:"Female",  label3:submission, label4: WordFemaleRBData,   x: 63-20, y: 190-30, z: WordFemaleRBData*WordFemaleRBData/100 },
-      { label: "R&B", label2:"Other",  label3:submission, label4: WordOtherRBData,    x: 61-20, y: 205-30, z: WordOtherRBData*WordOtherRBData/100 },
+      { label: "Pop", label2:"Male", label3:submission, label4: WordMalePopData, x: 30+0.5,y: 30, z: (WordMalePopData*WordMalePopData) },
+      { label: "Pop", label2:"Female", label3:submission, label4: WordFemalePopData,   x: 35-3, y: 50, z: WordFemalePopData*WordFemalePopData},
+      { label: "Pop", label2:"Other", label3:submission, label4: WordOtherPopData,    x: 30+0.5, y: 70-10, z: WordOtherPopData*WordFemalePopData },
+      { label: "Hip-Hop", label2:"Male", label3:submission, label4: WordMaleHipHopData,   x: 70-25+2, y: 70-10, z: WordMaleHipHopData*WordMaleHipHopData},
+      { label: "Hip-Hop", label2:"Female", label3:submission, label4: WordFemaleHipHopData,    x: 75-27, y: 90-10, z: WordFemaleHipHopData*WordFemaleHipHopData},
+      { label: "Hip-Hop", label2:"Other",  label3:submission, label4: WordOtherHipHopData,    x: 80-30, y: 65-10, z: WordOtherHipHopData*WordOtherHipHopData},
+      { label: "Rock", label2:"Male",  label3:submission, label4: WordMaleRockData,   x: 50-20, y: 150+12, z: WordMaleRockData*WordMaleRockData },
+      { label: "Rock", label2:"Female", label3:submission, label4: WordFemaleRockData,    x: 45-14, y: 145+10, z: WordFemaleRockData*WordFemaleRockData},
+      { label: "Rock", label2:"Other",  label3:submission, label4: WordOtherRockData,    x: 51-20, y: 168+4, z: WordOtherRockData*WordOtherRockData},
+      { label: "Soul", label2:"Male",  label3:submission, label4: WordMaleSoulData,   x: 60, y: 20, z: WordMaleSoulData*WordMaleSoulData},
+      { label: "Soul", label2:"Female", label3:submission, label4: WordFemaleSoulData,    x: 62, y: 30, z: WordFemaleSoulData*WordFemaleSoulData },
+      { label: "Soul", label2:"Other",  label3:submission, label4: WordOtherSoulData,    x: 57, y: 32,  z: WordOtherSoulData*WordOtherSoulData },
+      { label: "EDM", label2:"Male", label3:submission, label4: WordMaleEDMData,    x: 100-50+2, y: 210-30, z: WordMaleEDMData*WordMaleEDMData },
+      { label: "EDM", label2:"Female",  label3:submission, label4: WordFemaleEDMData,   x: 105-50, y: 200-30, z: WordFemaleEDMData*WordFemaleEDMData},
+      { label: "EDM", label2:"Other",  label3:submission, label4: WordOtherEDMData,    x: 103-50, y: 190-30, z: WordOtherEDMData*WordOtherEDMData },
+      { label: "R&B", label2:"Male",  label3:submission, label4: WordMaleRBData,   x: 58-20+2, y: 195-30, z: WordMaleRBData*WordMaleRBData },
+      { label: "R&B", label2:"Female",  label3:submission, label4: WordFemaleRBData,   x: 63-20, y: 190-30, z: WordFemaleRBData*WordFemaleRBData },
+      { label: "R&B", label2:"Other",  label3:submission, label4: WordOtherRBData,    x: 61-20, y: 205-30, z: WordOtherRBData*WordOtherRBData },
       //{ label: "Alternative Male", x: 36, y: WordMaleAlternativeData, z: WordMaleAlternativeData*1000.0 },
       //{ label: "Alternative Female", x: 108, y: WordFemaleAlternativeData, z: WordFemaleAlternativeData*1000.0 },
       //{ label: "Alternative Other", x: 180, y: WordOtherAlternativeData, z: WordOtherAlternativeData*1000.0 },
-      { label: "Country", label2:"Male", label3:submission, label4: WordMaleCountryData,    x: 120-60-2, y: 70, z: WordMaleCountryData*WordMaleCountryData/100 },
-      { label: "Country", label2:"Female",  label3:submission, label4: WordMaleCountryData,   x: 120-60-2, y: 95, z: WordFemaleCountryData*WordFemaleCountryData/100 },
-      { label: "Country", label2:"Other",  label3:submission, label4: WordOtherCountryData,    x: 110-55, y: 80, z: WordOtherCountryData*WordOtherCountryData/100},
-      { label: "Jazz", label2:"Male",  label3:submission, label4: WordMaleJazzData,   x: 29, y: 125-10, z: WordMaleJazzData*WordMaleJazzData/100 },
-      { label: "Jazz", label2:"Female",  label3:submission, label4: WordFemaleJazzData,   x: 33-2, y: 135-25, z: WordFemaleJazzData*WordFemaleJazzData/100 },
-      { label: "Jazz", label2:"Other", label3:submission, label4: WordOtherJazzData,     x: 30, y: 142-22, z: WordOtherJazzData*WordOtherJazzData/100 },
-      { label: "Metal", label2:"Male", label3:submission, label4: WordMaleMetalData,    x: 45-10, y: 50+70, z: WordMaleMetalData*WordMaleMetalData/100 },
-      { label: "Metal", label2:"Female",  label3:submission, label4: WordFemaleMetalData,   x: 47-11, y: 65+65, z: WordFemaleMetalData*WordFemaleMetalData/100 },
-      { label: "Metal", label2:"Other",  label3:submission, label4: WordOtherMetalData,    x: 50-14+1, y: 46+70, z: WordOtherMetalData*WordOtherMetalData/100 },
-      { label: "Folk", label2:"Male",  label3:submission, label4: WordMaleFolkData,   x: 100-20-30, y: 100+20, z: WordMaleFolkData*WordMaleFolkData/100},
-      { label: "Folk", label2:"Female", label3:submission, label4: WordFemaleFolkData,    x: 85-20-20, y: 105+20, z: WordFemaleFolkData*WordFemaleFolkData/100 },
-      { label: "Folk", label2:"Other",  label3:submission, label4: WordOtherFolkData,    x: 95-20-27, y: 115, z: WordOtherFolkData*WordOtherFolkData/100 },
-      { label: "Punk", label2:"Male", label3:submission,  label4: WordMalePunkData,   x: 160-125+3, y: 50+30-10, z: WordMalePunkData*WordMalePunkData/100 },
-      { label: "Punk", label2:"Female", label3:submission, label4: WordFemalePunkData,    x: 150-110, y: 57+30-10, z: WordFemalePunkData*WordFemalePunkData/100},
-      { label: "Punk", label2:"Other",  label3:submission,  label4: WordOtherPunkData,   x: 150-114.5+5, y: 43+30-15, z: WordOtherPunkData*WordOtherPunkData/100 },
+      { label: "Country", label2:"Male", label3:submission, label4: WordMaleCountryData,    x: 120-60-2, y: 70, z: WordMaleCountryData*WordMaleCountryData },
+      { label: "Country", label2:"Female",  label3:submission, label4: WordMaleCountryData,   x: 120-60-2, y: 95, z: WordFemaleCountryData*WordFemaleCountryData },
+      { label: "Country", label2:"Other",  label3:submission, label4: WordOtherCountryData,    x: 110-55, y: 80, z: WordOtherCountryData*WordOtherCountryData},
+      { label: "Jazz", label2:"Male",  label3:submission, label4: WordMaleJazzData,   x: 29, y: 125-10, z: WordMaleJazzData*WordMaleJazzData },
+      { label: "Jazz", label2:"Female",  label3:submission, label4: WordFemaleJazzData,   x: 33-2, y: 135-25, z: WordFemaleJazzData*WordFemaleJazzData },
+      { label: "Jazz", label2:"Other", label3:submission, label4: WordOtherJazzData,     x: 30, y: 142-22, z: WordOtherJazzData*WordOtherJazzData },
+      { label: "Metal", label2:"Male", label3:submission, label4: WordMaleMetalData,    x: 45-10, y: 50+70, z: WordMaleMetalData*WordMaleMetalData },
+      { label: "Metal", label2:"Female",  label3:submission, label4: WordFemaleMetalData,   x: 47-11, y: 65+65, z: WordFemaleMetalData*WordFemaleMetalData },
+      { label: "Metal", label2:"Other",  label3:submission, label4: WordOtherMetalData,    x: 50-14+1, y: 46+70, z: WordOtherMetalData*WordOtherMetalData },
+      { label: "Folk", label2:"Male",  label3:submission, label4: WordMaleFolkData,   x: 100-20-30, y: 100+20, z: WordMaleFolkData*WordMaleFolkData},
+      { label: "Folk", label2:"Female", label3:submission, label4: WordFemaleFolkData,    x: 85-20-20, y: 105+20, z: WordFemaleFolkData*WordFemaleFolkData},
+      { label: "Folk", label2:"Other",  label3:submission, label4: WordOtherFolkData,    x: 95-20-27, y: 115, z: WordOtherFolkData*WordOtherFolkData },
+      { label: "Punk", label2:"Male", label3:submission,  label4: WordMalePunkData,   x: 160-125+3, y: 50+30-10, z: WordMalePunkData*WordMalePunkData },
+      { label: "Punk", label2:"Female", label3:submission, label4: WordFemalePunkData,    x: 150-110, y: 57+30-10, z: WordFemalePunkData*WordFemalePunkData},
+      { label: "Punk", label2:"Other",  label3:submission,  label4: WordOtherPunkData,   x: 150-114.5+5, y: 43+30-15, z: WordOtherPunkData*WordOtherPunkData },
         );
     this.chart1 = new CanvasJS.Chart(id, this.options);
     this.chart1.render();
