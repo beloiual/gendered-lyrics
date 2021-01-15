@@ -1,101 +1,369 @@
 {
-    "BTS": [
+    "Abhijeet": [
         "Other",
-        "Pop"
+        "Movie"
     ],
     "Ariana Grande": [
         "Female",
         "Pop"
     ],
-    "Shawn Mendes": [
+    "Atif Aslam": [
         "Male",
         "Pop"
     ],
-    "Pentatonix": [
+    "Arthur": [
+        "Other",
+        "Rock"
+    ],
+    "Always Sunny In Philadelphia": [
+        "Other",
+        "Movie"
+    ],
+    "Azra": [
+        "Other",
+        "Rock"
+    ],
+    "Abba": [
         "Other",
         "Pop"
     ],
-    "Mariah Carey": [
+    "Annie": [
         "Female",
         "Pop"
     ],
-    "Michael Buble": [
-        "Male",
-        "Jazz"
+    "Ataullah Khan Esakhelvi": [
+        "Other",
+        "Movie"
     ],
-    "Luke Combs": [
-        "Male",
-        "Country"
+    "Ash": [
+        "Other",
+        "Pop"
     ],
-    "Billie Eilish": [
+    "Adele": [
         "Female",
         "Pop"
     ],
-    "Morgan Wallen": [
-        "Male",
-        "Country"
-    ],
-    "Bad Bunny": [
-        "Male",
-        "Hip-Hop"
-    ],
-    "Bing Crosby": [
-        "Male",
-        "Jazz"
-    ],
-    "Carrie Underwood": [
-        "Female",
-        "Country"
-    ],
-    "Justin Bieber": [
+    "Arijit Singh": [
         "Male",
         "Pop"
     ],
-    "Juice WRLD": [
-        "Male",
-        "Hip-Hop"
+    "Arminder Gill": [
+        "Other",
+        "Movie"
     ],
-    "The Weeknd": [
+    "Avicii": [
+        "Male",
+        "EDM"
+    ],
+    "Andrea Bocelli": [
         "Male",
         "Pop"
     ],
-    "Lil Baby": [
-        "Male",
-        "Hip-Hop"
+    "Aerosmith": [
+        "Other",
+        "Rock"
     ],
-    "Harry Styles": [
+    "Al Wilson": [
+        "Male",
+        "Rock"
+    ],
+    "Ahmed Rushdi": [
         "Male",
         "Pop"
+    ],
+    "Abhijeet And Alka Yagnik": [
+        "Other",
+        "Movie"
+    ],
+    "AC/DC": [
+        "Other",
+        "Rock"
+    ],
+    "America": [
+        "Other",
+        "Pop"
+    ],
+    "Astro": [
+        "Other",
+        "Pop"
+    ],
+    "Arrogant Worms": [
+        "Male",
+        "Folk"
+    ],
+    "Air Supply": [
+        "Male",
+        "Pop"
+    ],
+    "Alladin And Jasmine": [
+        "Other",
+        "Movie"
+    ],
+    "Arlo Guthrie": [
+        "Male",
+        "Folk"
+    ],
+    "Alice In Chains": [
+        "Other",
+        "Rock"
     ],
     "Andy Williams": [
         "Male",
         "Pop"
     ],
-    "Taylor Swift": [
+    "Amy Grant": [
         "Female",
         "Pop"
     ],
-    "Nat King Cole": [
+    "Alanis Morissette": [
+        "Female",
+        "Pop"
+    ],
+    "Barbie": [
+        "Other",
+        "Movie"
+    ],
+    "Bob Marley": [
+        "Male",
+        "Rock"
+    ],
+    "Beatles": [
+        "Other",
+        "Rock"
+    ],
+    "Barbie As The Island Princess": [
+        "Other",
+        "Movie"
+    ],
+    "Brooklyn Tabernacle Choir": [
+        "Other",
+        "Movie"
+    ],
+    "Barbie And The Diamond Castle": [
+        "Other",
+        "Movie"
+    ],
+    "Bob Dylan": [
         "Male",
         "Jazz"
     ],
-    "Megan Thee Stallion": [
+    "Bruce Springsteen": [
+        "Male",
+        "Rock"
+    ],
+    "Bill Gaither": [
+        "Other",
+        "Movie"
+    ],
+    "Beyonce": [
         "Female",
+        "Pop"
+    ],
+    "Boys Over Flowers": [
+        "Other",
+        "Movie"
+    ],
+    "Bee Gees": [
+        "Other",
+        "Pop"
+    ],
+    "Bob Seger": [
+        "Male",
+        "Rock"
+    ],
+    "Bikini Kill": [
+        "Female",
+        "Rock"
+    ],
+    "Bratz": [
+        "Other",
+        "Movie"
+    ],
+    "Billie Holiday": [
+        "Female",
+        "Jazz"
+    ],
+    "Bukas Palad": [
+        "Other",
+        "Movie"
+    ],
+    "Black Sabbath": [
+        "Other",
+        "Metal"
+    ],
+    "Barbie In A Mermaid Tale": [
+        "Other",
+        "Movie"
+    ],
+    "Bette Midler": [
+        "Female",
+        "Pop"
+    ],
+    "Barbra Streisand": [
+        "Female",
+        "Pop"
+    ],
+    "Bruno Mars": [
+        "Male",
+        "Pop"
+    ],
+    "Bread": [
+        "Other",
+        "Rock"
+    ],
+    "Bisrock": [
+        "Other",
+        "Movie"
+    ],
+    "Boney M": [
+        "Other",
+        "Movie"
+    ],
+    "Bigbang": [
+        "Other",
+        "Movie"
+    ],
+    "Britney Spears": [
+        "Female",
+        "Pop"
+    ],
+    "Billy Joel": [
+        "Male",
+        "Rock"
+    ],
+    "Big Sean": [
+        "Male",
         "Hip-Hop"
     ],
-    "Chris Stapleton": [
+    "Backstreet Boys": [
+        "Other",
+        "Pop"
+    ],
+    "Cuppycake": [
+        "Other",
+        "Movie"
+    ],
+    "Cinderella": [
+        "Other",
+        "Rock"
+    ],
+    "Christmas Songs": [
+        "Other",
+        "Movie"
+    ],
+    "Children": [
+        "Other",
+        "Movie"
+    ],
+    "Chuck Berry": [
+        "Male",
+        "Rock"
+    ],
+    "Creedence Clearwater Revival": [
+        "Other",
+        "Country"
+    ],
+    "Cat Stevens": [
+        "Male",
+        "Folk"
+    ],
+    "Curtis Mayfield": [
+        "Male",
+        "R&B"
+    ],
+    "Carpenters": [
+        "Female",
+        "Pop"
+    ],
+    "Chicago": [
+        "Other",
+        "Jazz"
+    ],
+    "Carly Rae Jepsen": [
+        "Female",
+        "Pop"
+    ],
+    "Curse One": [
+        "Other",
+        "Movie"
+    ],
+    "Celine Dion": [
+        "Female",
+        "Pop"
+    ],
+    "Captain Sparklez": [
+        "Male",
+        "Rock"
+    ],
+    "Christina Perri": [
+        "Female",
+        "Pop"
+    ],
+    "Cher": [
+        "Female",
+        "Pop"
+    ],
+    "Christina Aguilera": [
+        "Female",
+        "Pop"
+    ],
+    "Crosby Stills Nash": [
+        "Other",
+        "Movie"
+    ],
+    "Carly Simon": [
+        "Female",
+        "Pop"
+    ],
+    "Chris De Burgh": [
+        "Male",
+        "Pop"
+    ],
+    "Cliff Richard": [
+        "Male",
+        "Pop"
+    ],
+    "Coldplay": [
+        "Other",
+        "Pop"
+    ],
+    "Cheryl Pepsii Riley": [
+        "Female",
+        "Pop"
+    ],
+    "Connie Smith": [
+        "Female",
+        "Country"
+    ],
+    "Chris Brown": [
+        "Male",
+        "Pop"
+    ],
+    "Crowded House": [
+        "Other",
+        "Rock"
+    ],
+    "Corries": [
+        "Other",
+        "Folk"
+    ],
+    "Clash": [
+        "Other",
+        "Rock"
+    ],
+    "Conway Twitty": [
         "Male",
         "Country"
     ],
-    "Frank Sinatra": [
-        "Male",
+    "Chaka Khan": [
+        "Female",
         "Jazz"
     ],
-    "Pop Smoke": [
-        "Male",
-        "Pop"
+    "Dr Seuss": [
+        "Other",
+        "Movie"
     ],
-    "Post Malone": [
+    "David Bowie": [
         "Male",
         "Pop"
     ],
@@ -103,300 +371,2752 @@
         "Female",
         "Country"
     ],
-    "Dua Lipa": [
-        "Female",
-        "Pop"
+    "David Allan Coe": [
+        "Male",
+        "Country"
     ],
     "Drake": [
         "Male",
         "Hip-Hop"
     ],
-    "Vince Guaraldi Trio": [
-        "Male",
-        "Jazz"
-    ],
-    "DaBaby": [
-        "Male",
-        "Hip-Hop"
-    ],
-    "The Beatles": [
+    "Doors": [
         "Other",
         "Rock"
     ],
-    "Brenda Lee": [
-        "Female",
+    "Dire Straits": [
+        "Other",
         "Rock"
     ],
-    "Miley Cyrus": [
+    "Doctor Who": [
+        "Other",
+        "Movie"
+    ],
+    "Don Moen": [
+        "Other",
+        "Movie"
+    ],
+    "Disney": [
+        "Other",
+        "Movie"
+    ],
+    "Dave Matthews Band": [
+        "Other",
+        "Jazz"
+    ],
+    "Def Leppard": [
+        "Other",
+        "Pop"
+    ],
+    "Dusty Springfield": [
         "Female",
         "Pop"
     ],
-    "Gabby Barrett": [
+    "Don Henley": [
+        "Male",
+        "Rock"
+    ],
+    "Doris Day": [
+        "Other",
+        "Movie"
+    ],
+    "Death Cab For Cutie": [
+        "Other",
+        "Pop"
+    ],
+    "Depeche Mode": [
+        "Other",
+        "Pop"
+    ],
+    "Daryl Hall John Oates": [
+        "Male",
+        "Pop"
+    ],
+    "December Avenue": [
+        "Other",
+        "Indie"
+    ],
+    "Diana Ross": [
         "Female",
+        "Pop"
+    ],
+    "Dj Faddu": [
+        "Other",
+        "Movie"
+    ],
+    "Deep Purple": [
+        "Other",
         "Country"
     ],
-    "AC/DC": [
+    "Dirty Dancing": [
         "Other",
-        "Rock"
+        "Movie"
+    ],
+    "Demi Lovato": [
+        "Female",
+        "Pop"
+    ],
+    "Don Williams": [
+        "Male",
+        "Country"
     ],
     "Dean Martin": [
         "Male",
         "Jazz"
     ],
-    "Gene Autry": [
-        "Male",
-        "Country"
+    "Dj Fritzy": [
+        "Other",
+        "Movie"
     ],
-    "Dan + Shay": [
-        "Male",
-        "Pop"
+    "Dragon Ball Gt": [
+        "Other",
+        "Movie"
     ],
-    "Burl Ives": [
+    "David Crowder Band": [
+        "Other",
+        "Rock"
+    ],
+    "Doobie Brothers": [
+        "Other",
+        "Rock"
+    ],
+    "Eminem": [
         "Male",
-        "Country"
+        "Hip-Hop"
     ],
     "Elvis Presley": [
         "Male",
         "Rock"
     ],
-    "Queen": [
-        "Other",
-        "Rock"
-    ],
-    "Trans-Siberian Orchestra": [
-        "Other",
-        "Rock"
-    ],
-    "24kGoldn": [
+    "Ed Sheeran": [
         "Male",
-        "Hip-Hop"
-    ],
-    "Kelly Clarkson": [
-        "Female",
         "Pop"
     ],
-    "Bobby Helms": [
-        "Male",
-        "Country"
-    ],
-    "Ava Max": [
-        "Female",
+    "Exo": [
+        "Other",
         "Pop"
     ],
-    "Fleetwood Mac": [
-        "Other",
-        "Rock"
-    ],
-    "Lewis Capaldi": [
-        "Male",
-        "R&B"
-    ],
-    "Josh Groban": [
-        "Male",
+    "Ella Fitzgerald": [
+        "Female",
         "Jazz"
     ],
-    "The Kid LAROI": [
-        "Male",
-        "Hip-Hop"
+    "Ellie Goulding": [
+        "Female",
+        "Pop"
     ],
     "Eagles": [
         "Other",
         "Rock"
     ],
-    "The White Stripes": [
-        "Male",
-        "Pop"
-    ],
-    "AJR": [
-        "Other",
-        "Indie"
-    ],
-    "Khalid": [
-        "Male",
-        "Pop"
-    ],
-    "Blake Shelton": [
-        "Male",
-        "Country"
-    ],
-    "Young Thug": [
-        "Male",
-        "Hip-Hop"
-    ],
-    "Roddy Ricch": [
-        "Male",
-        "Hip-Hop"
-    ],
-    "Wham!": [
-        "Male",
-        "Pop"
-    ],
-    "Sam Smith": [
-        "Male",
-        "Pop"
-    ],
-    "Perry Como": [
-        "Male",
-        "Pop"
-    ],
-    "Jose Feliciano": [
-        "Male",
-        "Pop"
-    ],
-    "Lee Brice": [
-        "Male",
-        "Country"
-    ],
-    "Chris Brown": [
-        "Male",
-        "Pop"
-    ],
-    "Gwen Stefani": [
-        "Female",
-        "Pop"
-    ],
-    "Travis Scott": [
-        "Male",
-        "Hip-Hop"
-    ],
-    "The Ronettes": [
-        "Other",
-        "Pop"
-    ],
-    "Kane Brown": [
-        "Male",
-        "Country"
-    ],
-    "Lil Nas X": [
-        "Male",
-        "Hip-Hop"
-    ],
-    "Bruce Springsteen & The E Street Band": [
+    "Elton John": [
         "Male",
         "Rock"
     ],
-    "Darlene Love": [
+    "Eric Clapton": [
+        "Male",
+        "Rock"
+    ],
+    "Enrique Iglesias": [
+        "Male",
+        "Pop"
+    ],
+    "Engelbert Humperdinck": [
+        "Male",
+        "Pop"
+    ],
+    "Emmylou Harris": [
+        "Female",
+        "Country"
+    ],
+    "Elvis Costello": [
+        "Male",
+        "Pop"
+    ],
+    "Evanescence": [
+        "Other",
+        "Rock"
+    ],
+    "Electric Light Orchestra": [
+        "Other",
+        "Pop"
+    ],
+    "Exo K": [
+        "Other",
+        "Movie"
+    ],
+    "Emerson Lake Palmer": [
+        "Other",
+        "Rock"
+    ],
+    "Elmer Cole": [
+        "Other",
+        "Movie"
+    ],
+    "Erwin Beekveld": [
+        "Other",
+        "Movie"
+    ],
+    "Eurythmics": [
+        "Female",
+        "Rock"
+    ],
+    "Earth Wind Fire": [
+        "Other",
+        "Jazz"
+    ],
+    "Elevation Worship": [
+        "Other",
+        "Rock"
+    ],
+    "Elkasih": [
+        "Other",
+        "Movie"
+    ],
+    "Enya": [
+        "Female",
+        "Pop"
+    ],
+    "Everclear": [
+        "Other",
+        "Pop"
+    ],
+    "Enigma": [
+        "Male",
+        "EDM"
+    ],
+    "Erasure": [
+        "Male",
+        "Pop"
+    ],
+    "England Dan John Ford Coley": [
+        "Other",
+        "Movie"
+    ],
+    "Extreme": [
+        "Other",
+        "Pop"
+    ],
+    "Etta James": [
         "Female",
         "Jazz"
     ],
-    "Halsey": [
-        "Female",
-        "Pop"
-    ],
-    "NCT": [
+    "Frank Sinatra": [
         "Male",
-        "Pop"
+        "Jazz"
     ],
-    "TWICE": [
+    "Freestyle": [
         "Other",
         "Pop"
     ],
-    "Russell Dickerson": [
+    "Frank Zappa": [
         "Male",
-        "Country"
+        "Jazz"
     ],
-    "The Beach Boys": [
+    "Fleetwood Mac": [
         "Other",
         "Rock"
     ],
-    "Jack Harlow": [
+    "Fossils": [
+        "Other",
+        "Rock"
+    ],
+    "F4": [
+        "Other",
+        "Pop"
+    ],
+    "Frog J Michigan": [
+        "Other",
+        "Movie"
+    ],
+    "Free": [
+        "Other",
+        "Rock"
+    ],
+    "Freddie Mercury": [
+        "Male",
+        "Rock"
+    ],
+    "Future": [
+        "Male",
+        "Rock"
+    ],
+    "Falco": [
+        "Male",
+        "Pop"
+    ],
+    "Fatboy Slim": [
+        "Other",
+        "Rock"
+    ],
+    "Foreigner": [
+        "Other",
+        "Rock"
+    ],
+    "Fairly Odd Parents": [
+        "Other",
+        "Movie"
+    ],
+    "Fred Rogers": [
+        "Other",
+        "Movie"
+    ],
+    "Foals": [
+        "Other",
+        "Pop"
+    ],
+    "Final Fantasy Vii": [
+        "Other",
+        "Movie"
+    ],
+    "Frank Ocean": [
+        "Male",
+        "Pop"
+    ],
+    "Fabolous": [
         "Male",
         "Hip-Hop"
     ],
-    "Polo G": [
+    "Freddie Aguilar": [
+        "Male",
+        "Folk"
+    ],
+    "Finding Nemo": [
+        "Other",
+        "Movie"
+    ],
+    "Faith Cuneta": [
+        "Other",
+        "Movie"
+    ],
+    "Family Guy": [
+        "Other",
+        "Movie"
+    ],
+    "Frankie Valli": [
+        "Male",
+        "Rock"
+    ],
+    "Foo Fighters": [
+        "Other",
+        "Rock"
+    ],
+    "Fall Out Boy": [
+        "Other",
+        "Pop"
+    ],
+    "Fullmetal Alchemist": [
+        "Other",
+        "Movie"
+    ],
+    "Flo Rida": [
         "Male",
         "Hip-Hop"
     ],
-    "Jon Pardi": [
+    "Five Finger Death Punch": [
+        "Other",
+        "Rock"
+    ],
+    "Firehouse": [
+        "Other",
+        "Rock"
+    ],
+    "Grateful Dead": [
+        "Other",
+        "Rock"
+    ],
+    "Gagong Rapper": [
+        "Other",
+        "Movie"
+    ],
+    "Gmb": [
+        "Other",
+        "Movie"
+    ],
+    "Gordon Lightfoot": [
+        "Male",
+        "Folk"
+    ],
+    "Got7": [
+        "Other",
+        "Pop"
+    ],
+    "Genesis": [
+        "Other",
+        "Pop"
+    ],
+    "Green Day": [
+        "Other",
+        "Pop"
+    ],
+    "Grease": [
+        "Other",
+        "Movie"
+    ],
+    "George Jones": [
         "Male",
         "Country"
+    ],
+    "Guns N Roses": [
+        "Other",
+        "Metal"
+    ],
+    "Garry Lee": [
+        "Other",
+        "Movie"
+    ],
+    "George Harrison": [
+        "Male",
+        "Rock"
+    ],
+    "Gaither Vocal Band": [
+        "Other",
+        "Movie"
+    ],
+    "Great Big Sea": [
+        "Other",
+        "Rock"
     ],
     "Garth Brooks": [
         "Male",
         "Country"
     ],
-    "King Von": [
+    "George Clinton": [
+        "Other",
+        "Movie"
+    ],
+    "George Michael": [
+        "Male",
+        "Pop"
+    ],
+    "G Eazy": [
         "Male",
         "Hip-Hop"
     ],
-    "Chris Lane": [
+    "Gucci Mane": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Grandmaster Flash": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "George Strait": [
         "Male",
         "Country"
     ],
-    "Ed Sheeran": [
-        "Male",
-        "Pop"
+    "Gilbert And Sullivan": [
+        "Other",
+        "Movie"
     ],
-    "Johnny Mathis": [
+    "Gloc 9": [
         "Male",
-        "Jazz"
+        "Rock"
     ],
-    "Moneybagg Yo": [
+    "Grand Funk Railroad": [
+        "Other",
+        "Rock"
+    ],
+    "Gene Kelly": [
         "Male",
         "Hip-Hop"
     ],
-    "Nirvana": [
+    "Goo Goo Dolls": [
+        "Other",
+        "Metal"
+    ],
+    "Gene Autry": [
+        "Male",
+        "Country"
+    ],
+    "Glen Campbell": [
+        "Male",
+        "Country"
+    ],
+    "Gloria Estefan": [
+        "Female",
+        "Pop"
+    ],
+    "Greg Kihn Band": [
+        "Other",
+        "Rock"
+    ],
+    "Hambog": [
+        "Other",
+        "Movie"
+    ],
+    "Horrible Histories": [
+        "Other",
+        "Movie"
+    ],
+    "Hillsong United": [
+        "Other",
+        "Rock"
+    ],
+    "Hillsong": [
+        "Other",
+        "Movie"
+    ],
+    "Himesh Reshammiya": [
+        "Male",
+        "Pop"
+    ],
+    "Hatsune Miku": [
+        "Other",
+        "Movie"
+    ],
+    "Home And Away Theme Song": [
+        "Other",
+        "Movie"
+    ],
+    "Hukbalahap": [
+        "Other",
+        "Movie"
+    ],
+    "Hank Williams": [
+        "Male",
+        "Country"
+    ],
+    "Hideaki Tokunaga": [
+        "Male",
+        "Pop"
+    ],
+    "Hunger Games": [
+        "Other",
+        "Movie"
+    ],
+    "High School Musical": [
+        "Other",
+        "Movie"
+    ],
+    "Harry Styles": [
+        "Male",
+        "Pop"
+    ],
+    "Huey Lewis The News": [
+        "Other",
+        "Movie"
+    ],
+    "Heart": [
+        "Female",
+        "Rock"
+    ],
+    "Hezekiah Walker": [
+        "Other",
+        "Movie"
+    ],
+    "Hillsong Kids": [
+        "Other",
+        "Movie"
+    ],
+    "Hollywood Undead": [
+        "Other",
+        "Hip-Hop"
+    ],
+    "Halloween": [
+        "Other",
+        "Metal"
+    ],
+    "Hank Williams Jr": [
+        "Male",
+        "Country"
+    ],
+    "Hans Zimmer": [
+        "Other",
+        "Movie"
+    ],
+    "Hole": [
         "Other",
         "Pop"
     ],
-    "H.E.R.": [
+    "Huh Gak": [
+        "Male",
+        "Pop"
+    ],
+    "Hoodwinked": [
+        "Other",
+        "Movie"
+    ],
+    "Hjs": [
+        "Other",
+        "Movie"
+    ],
+    "Happy Mondays": [
+        "Other",
+        "Rock"
+    ],
+    "Hozier": [
+        "Male",
+        "Pop"
+    ],
+    "Harry Potter": [
+        "Other",
+        "Movie"
+    ],
+    "Helloween": [
+        "Other",
+        "Metal"
+    ],
+    "Hetalia Axis Powers": [
+        "Other",
+        "Movie"
+    ],
+    "Irving Berlin": [
+        "Male",
+        "Pop"
+    ],
+    "Indiana Bible College": [
+        "Other",
+        "Movie"
+    ],
+    "Imagine Dragons": [
+        "Other",
+        "Pop"
+    ],
+    "Indigo Girls": [
+        "Female",
+        "Folk"
+    ],
+    "Iron Maiden": [
+        "Other",
+        "Pop"
+    ],
+    "Iggy Pop": [
+        "Male",
+        "Pop"
+    ],
+    "Insane Clown Posse": [
+        "Other",
+        "Jazz"
+    ],
+    "Ice Cube": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Israel Houghton": [
+        "Male",
+        "R&B"
+    ],
+    "Imelda Papin": [
+        "Other",
+        "Movie"
+    ],
+    "Imperials": [
+        "Other",
+        "Movie"
+    ],
+    "Inxs": [
+        "Other",
+        "Rock"
+    ],
+    "Iu": [
+        "Other",
+        "Movie"
+    ],
+    "Irish Music": [
+        "Other",
+        "Movie"
+    ],
+    "Incubus": [
+        "Other",
+        "Rock"
+    ],
+    "Israel": [
+        "Male",
+        "Pop"
+    ],
+    "Ivor Bigun": [
+        "Other",
+        "Movie"
+    ],
+    "Iggy Azalea": [
+        "Female",
+        "Hip-Hop"
+    ],
+    "Ill Bill": [
+        "Male",
+        "Metal"
+    ],
+    "Ikon": [
+        "Other",
+        "Movie"
+    ],
+    "In Excelsis Deo": [
+        "Other",
+        "Movie"
+    ],
+    "Inna": [
+        "Female",
+        "Hip-Hop"
+    ],
+    "In This Moment": [
+        "Other",
+        "Rock"
+    ],
+    "Isley Brothers": [
+        "Other",
+        "Rock"
+    ],
+    "Imago": [
+        "Other",
+        "Rock"
+    ],
+    "Iron Wine": [
+        "Male",
+        "Pop"
+    ],
+    "Ian Hunter": [
+        "Male",
+        "Rock"
+    ],
+    "Ibrahim Tatlises": [
+        "Male",
+        "Pop"
+    ],
+    "India Arie": [
         "Female",
         "R&B"
+    ],
+    "Initial D": [
+        "Other",
+        "Movie"
+    ],
+    "Justin Bieber": [
+        "Male",
+        "Pop"
+    ],
+    "Jimmy Swaggart": [
+        "Other",
+        "Movie"
+    ],
+    "John Denver": [
+        "Male",
+        "Rock"
+    ],
+    "Jimi Hendrix": [
+        "Male",
+        "Rock"
+    ],
+    "Joni Mitchell": [
+        "Female",
+        "Jazz"
+    ],
+    "Journey": [
+        "Other",
+        "Jazz"
+    ],
+    "Jung Yonghwa": [
+        "Male",
+        "Jazz"
+    ],
+    "Jim Croce": [
+        "Male",
+        "Folk"
+    ],
+    "Jay Z": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Johnny Cash": [
+        "Male",
+        "Country"
+    ],
+    "James Taylor": [
+        "Male",
+        "Folk"
+    ],
+    "Jimmy Buffett": [
+        "Male",
+        "Pop"
+    ],
+    "Josh Santana": [
+        "Male",
+        "Pop"
+    ],
+    "Justin Timberlake": [
+        "Male",
+        "Pop"
+    ],
+    "John Mellencamp": [
+        "Male",
+        "Rock"
+    ],
+    "Joy Division": [
+        "Other",
+        "Rock"
+    ],
+    "Jerome Suson": [
+        "Other",
+        "Movie"
+    ],
+    "Jason Mraz": [
+        "Male",
+        "Jazz"
+    ],
+    "Jefferson Airplane": [
+        "Other",
+        "Rock"
+    ],
+    "Jennifer Lopez": [
+        "Female",
+        "Pop"
+    ],
+    "James Cleveland": [
+        "Male",
+        "R&B"
+    ],
+    "Jesse The Rippers": [
+        "Other",
+        "Movie"
+    ],
+    "Jay And Silent Bob": [
+        "Other",
+        "Movie"
+    ],
+    "Jethro Tull": [
+        "Other",
+        "Jazz"
+    ],
+    "Josh Groban": [
+        "Male",
+        "Jazz"
+    ],
+    "Jaden Smith": [
+        "Male",
+        "Rock"
+    ],
+    "John Prine": [
+        "Male",
+        "Country"
+    ],
+    "James Weldon Johnson": [
+        "Other",
+        "Movie"
+    ],
+    "J Cole": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "John Mayer": [
+        "Male",
+        "Pop"
+    ],
+    "Kumar Sanu": [
+        "Other",
+        "Movie"
+    ],
+    "Kim Ah Joong": [
+        "Other",
+        "Movie"
+    ],
+    "Kiroro": [
+        "Other",
+        "Pop"
+    ],
+    "Kk": [
+        "Other",
+        "Movie"
+    ],
+    "Kanye West": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Kenny Rogers": [
+        "Male",
+        "Country"
+    ],
+    "Kirk Franklin": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Ketama": [
+        "Other",
+        "Movie"
+    ],
+    "Kelly Clarkson": [
+        "Female",
+        "Pop"
+    ],
+    "Kevin Gates": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Khalid": [
+        "Male",
+        "Pop"
+    ],
+    "Kailash Kher": [
+        "Male",
+        "Pop"
+    ],
+    "Kinks": [
+        "Other",
+        "Rock"
+    ],
+    "Kris Kristofferson": [
+        "Male",
+        "Country"
+    ],
+    "Kanteen": [
+        "Other",
+        "Movie"
+    ],
+    "Katy Perry": [
+        "Female",
+        "Pop"
+    ],
+    "Kaija Koo": [
+        "Female",
+        "Pop"
+    ],
+    "Keith Green": [
+        "Male",
+        "Rock"
+    ],
+    "Kiss": [
+        "Other",
+        "Rock"
+    ],
+    "Korn": [
+        "Other",
+        "Metal"
+    ],
+    "Kenny Loggins": [
+        "Male",
+        "Rock"
+    ],
+    "Kid Cudi": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Kate Bush": [
+        "Female",
+        "Pop"
+    ],
+    "Kid Rock": [
+        "Male",
+        "Rock"
+    ],
+    "Kana Hawazawa": [
+        "Other",
+        "Movie"
+    ],
+    "Kendrick Lamar": [
+        "Male",
+        "Jazz"
+    ],
+    "Kokia": [
+        "Female",
+        "Pop"
+    ],
+    "King": [
+        "Male",
+        "Rock"
+    ],
+    "Kaptein Sabeltann": [
+        "Other",
+        "Movie"
+    ],
+    "Kenny Rankin": [
+        "Male",
+        "Jazz"
+    ],
+    "Lord Of The Rings": [
+        "Other",
+        "Movie"
+    ],
+    "Lil Wayne": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Louis Armstrong": [
+        "Male",
+        "Jazz"
+    ],
+    "Lata Mangeshkar": [
+        "Other",
+        "Movie"
+    ],
+    "Luis Fonsi": [
+        "Male",
+        "Pop"
+    ],
+    "Lou Reed": [
+        "Male",
+        "Rock"
+    ],
+    "Lana Del Rey": [
+        "Female",
+        "Rock"
+    ],
+    "Leonard Cohen": [
+        "Male",
+        "Folk"
+    ],
+    "Lady Gaga": [
+        "Female",
+        "Pop"
+    ],
+    "Lionel Richie": [
+        "Male",
+        "Pop"
+    ],
+    "Lady Antebellum": [
+        "Other",
+        "Country"
+    ],
+    "Linkin Park": [
+        "Other",
+        "Pop"
+    ],
+    "Les Miserables": [
+        "Other",
+        "Movie"
+    ],
+    "Lucille Bogan": [
+        "Other",
+        "Movie"
+    ],
+    "Little Mix": [
+        "Female",
+        "Pop"
+    ],
+    "Loituma": [
+        "Male",
+        "Folk"
+    ],
+    "Lynyrd Skynyrd": [
+        "Other",
+        "Rock"
+    ],
+    "Lauryn Hill": [
+        "Female",
+        "Hip-Hop"
     ],
     "Lil Durk": [
         "Male",
         "Hip-Hop"
     ],
-    "The Jacksons": [
+    "Limp Bizkit": [
+        "Other",
+        "Rock"
+    ],
+    "Lucky Dube": [
+        "Other",
+        "Movie"
+    ],
+    "Lenny Kravitz": [
+        "Male",
+        "Jazz"
+    ],
+    "Linda Ronstadt": [
+        "Female",
+        "Rock"
+    ],
+    "Lords Of Acid": [
+        "Other",
+        "Movie"
+    ],
+    "Lee Sun Hee": [
+        "Other",
+        "Movie"
+    ],
+    "Lil Boosie": [
+        "Other",
+        "Movie"
+    ],
+    "Lil Kim": [
+        "Female",
+        "Hip-Hop"
+    ],
+    "Loona": [
         "Other",
         "Pop"
     ],
-    "Jason Derulo": [
+    "Louis Tomlinson": [
         "Male",
         "Pop"
     ],
-    "John Legend": [
+    "Ll Cool J": [
+        "Other",
+        "Movie"
+    ],
+    "Mohit Chauhan": [
         "Male",
         "Pop"
-    ],
-    "Jhene Aiko": [
-        "Female",
-        "Pop"
-    ],
-    "Andrea Bocelli": [
-        "Male",
-        "Pop"
-    ],
-    "Chuck Berry": [
-        "Male",
-        "Rock"
     ],
     "Michael Jackson": [
         "Male",
         "Pop"
     ],
-    "Stevie Wonder": [
+    "Modern Talking": [
         "Male",
-        "Jazz"
-    ],
-    "Parker McCollum": [
-        "Male",
-        "Country"
-    ],
-    "Pink Floyd": [
-        "Other",
         "Pop"
     ],
-    "Paul McCartney": [
+    "Metallica": [
+        "Other",
+        "Metal"
+    ],
+    "Mulan": [
+        "Other",
+        "Movie"
+    ],
+    "Men At Work": [
+        "Male",
+        "Pop"
+    ],
+    "Michael W Smith": [
         "Male",
         "Rock"
     ],
-    "blackbear": [
+    "Mariah Carey": [
+        "Female",
+        "Pop"
+    ],
+    "Miley Cyrus": [
+        "Female",
+        "Pop"
+    ],
+    "Melonie Daniels": [
+        "Other",
+        "Movie"
+    ],
+    "Missing Felimon": [
+        "Other",
+        "Movie"
+    ],
+    "Marshall Hall": [
+        "Other",
+        "Movie"
+    ],
+    "Men Oppose": [
+        "Other",
+        "Movie"
+    ],
+    "Moody Blues": [
+        "Other",
+        "Pop"
+    ],
+    "Mahalia Jackson": [
+        "Female",
+        "Hip-Hop"
+    ],
+    "Madonna": [
+        "Female",
+        "Pop"
+    ],
+    "Monkees": [
+        "Other",
+        "Rock"
+    ],
+    "Mac Miller": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Matt Redman": [
         "Male",
         "Pop"
     ],
     "Machine Gun Kelly": [
         "Male",
         "Pop"
+    ],
+    "Martin Garrix": [
+        "Other",
+        "Movie"
+    ],
+    "Michelle Shocked": [
+        "Female",
+        "Folk"
+    ],
+    "Merle Haggard": [
+        "Male",
+        "Country"
+    ],
+    "Marillion": [
+        "Other",
+        "Pop"
+    ],
+    "Mamas The Papas": [
+        "Other",
+        "Movie"
+    ],
+    "Michael Card": [
+        "Other",
+        "Movie"
+    ],
+    "Madness": [
+        "Other",
+        "Pop"
+    ],
+    "Morrissey": [
+        "Male",
+        "Pop"
+    ],
+    "Marilyn Manson": [
+        "Male",
+        "Rock"
+    ],
+    "Maroon 5": [
+        "Other",
+        "Pop"
+    ],
+    "Nicki Minaj": [
+        "Female",
+        "Hip-Hop"
+    ],
+    "Nat King Cole": [
+        "Male",
+        "Jazz"
+    ],
+    "Neil Young": [
+        "Male",
+        "Rock"
+    ],
+    "Naruto Shippuden": [
+        "Other",
+        "Movie"
+    ],
+    "Nightmare Before Christmas": [
+        "Other",
+        "Movie"
+    ],
+    "Nirvana": [
+        "Other",
+        "Pop"
+    ],
+    "Notorious Big": [
+        "Male",
+        "Pop"
+    ],
+    "Norah Jones": [
+        "Female",
+        "Jazz"
+    ],
+    "National Anthem": [
+        "Other",
+        "Movie"
+    ],
+    "Natalie Grant": [
+        "Other",
+        "Movie"
+    ],
+    "Neil Diamond": [
+        "Male",
+        "Pop"
+    ],
+    "Nina Simone": [
+        "Female",
+        "Jazz"
+    ],
+    "Neon Genisis Evangelion": [
+        "Other",
+        "Movie"
+    ],
+    "N2U": [
+        "Other",
+        "Movie"
+    ],
+    "New Boyz": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Nitty Gritty Dirt Band": [
+        "Other",
+        "Country"
+    ],
+    "Nikki Gil": [
+        "Female",
+        "Pop"
+    ],
+    "No Doubt": [
+        "Other",
+        "Pop"
+    ],
+    "Nwa": [
+        "Other",
+        "Movie"
+    ],
+    "N Sync": [
+        "Other",
+        "Pop"
+    ],
+    "Nas": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "New Birth": [
+        "Other",
+        "Rock"
+    ],
+    "Nick Cave": [
+        "Male",
+        "Rock"
+    ],
+    "Nickelback": [
+        "Other",
+        "Pop"
+    ],
+    "Next To Normal": [
+        "Other",
+        "Movie"
+    ],
+    "Nofx": [
+        "Other",
+        "Pop"
+    ],
+    "Natsukawa Rimi": [
+        "Female",
+        "Pop"
+    ],
+    "Noa": [
+        "Female",
+        "Jazz"
+    ],
+    "Nelly": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Nightwish": [
+        "Other",
+        "Folk"
+    ],
+    "Oscar Brand": [
+        "Other",
+        "Movie"
+    ],
+    "One Direction": [
+        "Other",
+        "Pop"
+    ],
+    "One Piece": [
+        "Other",
+        "Movie"
+    ],
+    "O Zone": [
+        "Other",
+        "Movie"
+    ],
+    "Oscar Harris": [
+        "Male",
+        "Pop"
+    ],
+    "Onerepublic": [
+        "Other",
+        "Pop"
+    ],
+    "Oliver": [
+        "Male",
+        "Pop"
+    ],
+    "Ozzy Osbourne": [
+        "Male",
+        "Metal"
+    ],
+    "Offset": [
+        "Other",
+        "Movie"
+    ],
+    "Oscar Hammerstein": [
+        "Other",
+        "Movie"
+    ],
+    "Ouran High School Host Club": [
+        "Other",
+        "Movie"
+    ],
+    "Outkast": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Offspring": [
+        "Other",
+        "Pop"
+    ],
+    "Oasis": [
+        "Other",
+        "Rock"
+    ],
+    "Olivia Newton John": [
+        "Female",
+        "Pop"
+    ],
+    "Ofra Haza": [
+        "Female",
+        "Pop"
+    ],
+    "Omd": [
+        "Other",
+        "Movie"
+    ],
+    "Otis Redding": [
+        "Male",
+        "Rock"
+    ],
+    "Opeth": [
+        "Other",
+        "Rock"
+    ],
+    "Otep": [
+        "Other",
+        "Metal"
+    ],
+    "Olomana": [
+        "Other",
+        "Movie"
+    ],
+    "Ordo Rosarius Equilibrio": [
+        "Other",
+        "Folk"
+    ],
+    "Oscar Peterson": [
+        "Male",
+        "Jazz"
+    ],
+    "Oon Myung": [
+        "Other",
+        "Movie"
+    ],
+    "Olly Murs": [
+        "Male",
+        "Pop"
+    ],
+    "Old Crow Medicine Show": [
+        "Other",
+        "Country"
+    ],
+    "Orange And Lemons": [
+        "Other",
+        "Movie"
+    ],
+    "Omarion": [
+        "Male",
+        "Pop"
+    ],
+    "Oingo Boingo": [
+        "Other",
+        "Movie"
+    ],
+    "Overkill": [
+        "Other",
+        "Rock"
+    ],
+    "Pink Floyd": [
+        "Other",
+        "Rock"
+    ],
+    "Phineas And Ferb": [
+        "Other",
+        "Movie"
+    ],
+    "Peter Paul Mary": [
+        "Other",
+        "Movie"
+    ],
+    "Penny Dai": [
+        "Female",
+        "Pop"
+    ],
+    "Paul Mccartney": [
+        "Male",
+        "Rock"
+    ],
+    "Phil Collins": [
+        "Male",
+        "Jazz"
+    ],
+    "Prince": [
+        "Male",
+        "Pop"
+    ],
+    "Pete Townshend": [
+        "Male",
+        "Jazz"
+    ],
+    "Paul Simon": [
+        "Male",
+        "Folk"
+    ],
+    "Proclaimers": [
+        "Male",
+        "Pop"
+    ],
+    "Pearl Jam": [
+        "Male",
+        "Rock"
+    ],
+    "Phish": [
+        "Other",
+        "Rock"
+    ],
+    "Pixies": [
+        "Other",
+        "Rock"
+    ],
+    "Passenger": [
+        "Male",
+        "Folk"
+    ],
+    "Powerline": [
+        "Other",
+        "Movie"
+    ],
+    "Parokya Ni Edgar": [
+        "Other",
+        "Rock"
+    ],
+    "Pheobe": [
+        "Other",
+        "Movie"
+    ],
+    "Psychic Lover": [
+        "Other",
+        "Pop"
+    ],
+    "Peter Gabriel": [
+        "Male",
+        "Pop"
+    ],
+    "Pitbull": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Pogues": [
+        "Other",
+        "Folk"
+    ],
+    "Procol Harum": [
+        "Other",
+        "Rock"
+    ],
+    "Puff Daddy": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Perry Como": [
+        "Male",
+        "Pop"
+    ],
+    "Psalms Christian": [
+        "Other",
+        "Movie"
+    ],
+    "Papuri Singers": [
+        "Other",
+        "Movie"
+    ],
+    "Phantom Of The Opera": [
+        "Other",
+        "Movie"
+    ],
+    "Pharrell Williams": [
+        "Male",
+        "Pop"
+    ],
+    "Pucca": [
+        "Other",
+        "Movie"
+    ],
+    "Panic At The Disco": [
+        "Other",
+        "Pop"
+    ],
+    "Queen": [
+        "Other",
+        "Rock"
+    ],
+    "Queso": [
+        "Other",
+        "Movie"
+    ],
+    "Queensryche": [
+        "Other",
+        "Rock"
+    ],
+    "Queen Latifah": [
+        "Female",
+        "Jazz"
+    ],
+    "Queens Of The Stone Age": [
+        "Other",
+        "Pop"
+    ],
+    "Quicksilver Messenger Service": [
+        "Other",
+        "Rock"
+    ],
+    "Quest": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Quo Vadis": [
+        "Other",
+        "Metal"
+    ],
+    "Quiet Riot": [
+        "Other",
+        "Metal"
+    ],
+    "Quincy Jones": [
+        "Male",
+        "Jazz"
+    ],
+    "Queen Of The Damned": [
+        "Other",
+        "Movie"
+    ],
+    "Queen Ifrica": [
+        "Other",
+        "Movie"
+    ],
+    "Q And Not U": [
+        "Other",
+        "Punk"
+    ],
+    "Qbo": [
+        "Other",
+        "Movie"
+    ],
+    "Qualia": [
+        "Other",
+        "Movie"
+    ],
+    "Queen Adreena": [
+        "Other",
+        "Rock"
+    ],
+    "Quad City Djs": [
+        "Other",
+        "Movie"
+    ],
+    "Quasi": [
+        "Other",
+        "Rock"
+    ],
+    "Q Tip": [
+        "Other",
+        "Movie"
+    ],
+    "Qed": [
+        "Other",
+        "Movie"
+    ],
+    "Qntal": [
+        "Other",
+        "Pop"
+    ],
+    "Quarterflash": [
+        "Other",
+        "Pop"
+    ],
+    "Quick And The Dead": [
+        "Other",
+        "Movie"
+    ],
+    "Quincy": [
+        "Other",
+        "Pop"
+    ],
+    "Q5": [
+        "Other",
+        "Rock"
+    ],
+    "Quamo": [
+        "Other",
+        "Movie"
+    ],
+    "Quasimoto": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Queen David Bowie": [
+        "Other",
+        "Movie"
+    ],
+    "Quench": [
+        "Other",
+        "Pop"
+    ],
+    "Quicksand": [
+        "Other",
+        "Punk"
+    ],
+    "Repablikan": [
+        "Other",
+        "Movie"
+    ],
+    "Rolling Stones": [
+        "Other",
+        "Rock"
+    ],
+    "Ryan Cayabyab": [
+        "Other",
+        "Movie"
+    ],
+    "Rahat Fateh Ali Khan": [
+        "Other",
+        "Movie"
+    ],
+    "Rusty Cage": [
+        "Other",
+        "Metal"
+    ],
+    "Religious Music": [
+        "Other",
+        "Movie"
+    ],
+    "Rod Stewart": [
+        "Male",
+        "Rock"
+    ],
+    "Rihanna": [
+        "Female",
+        "Pop"
+    ],
+    "Rush": [
+        "Other",
+        "Rock"
+    ],
+    "Rage Against The Machine": [
+        "Other",
+        "Hip-Hop"
+    ],
+    "Red Hot Chili Peppers": [
+        "Other",
+        "Pop"
+    ],
+    "Ramones": [
+        "Other",
+        "Pop"
+    ],
+    "Rolly Polly Ollie": [
+        "Other",
+        "Movie"
+    ],
+    "Radiohead": [
+        "Other",
+        "Rock"
+    ],
+    "Rammstein": [
+        "Other",
+        "Metal"
+    ],
+    "Raffi": [
+        "Other",
+        "Movie"
+    ],
+    "Raeth": [
+        "Other",
+        "Rock"
+    ],
+    "Ron Kenoly": [
+        "Other",
+        "Movie"
+    ],
+    "Rebecca Lavelle": [
+        "Female",
+        "Pop"
+    ],
+    "Roy Orbison": [
+        "Male",
+        "Rock"
+    ],
+    "R Kelly": [
+        "Male",
+        "Rock"
+    ],
+    "Reba Mcentire": [
+        "Female",
+        "Country"
+    ],
+    "Reo Speedwagon": [
+        "Other",
+        "Rock"
+    ],
+    "Rick Astley": [
+        "Male",
+        "Pop"
+    ],
+    "Rudimentary Peni": [
+        "Other",
+        "Rock"
+    ],
+    "Renz Verano": [
+        "Other",
+        "Movie"
+    ],
+    "Richard Thompson": [
+        "Male",
+        "Rock"
+    ],
+    "Ray Charles": [
+        "Male",
+        "Jazz"
+    ],
+    "Roxette": [
+        "Female",
+        "Pop"
+    ],
+    "Russ": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Sonu Nigam": [
+        "Other",
+        "Movie"
+    ],
+    "Selena": [
+        "Female",
+        "Pop"
+    ],
+    "Snsd": [
+        "Other",
+        "Movie"
+    ],
+    "Soulja Boy": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Slipknot": [
+        "Other",
+        "Metal"
+    ],
+    "Steve Miller Band": [
+        "Other",
+        "Rock"
+    ],
+    "Sia": [
+        "Female",
+        "Pop"
+    ],
+    "Sam Smith": [
+        "Male",
+        "Pop"
+    ],
+    "Sheera Jasvir": [
+        "Male",
+        "Pop"
+    ],
+    "Steve Green": [
+        "Other",
+        "Movie"
+    ],
+    "Styx": [
+        "Other",
+        "Pop"
+    ],
+    "Sam The Sham The Pharaohs": [
+        "Other",
+        "Movie"
+    ],
+    "Shinee": [
+        "Other",
+        "Pop"
+    ],
+    "Snoop Dogg": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Spongebob Squarepants": [
+        "Other",
+        "Movie"
+    ],
+    "Skrewdriver": [
+        "Other",
+        "Rock"
+    ],
+    "Steely Dan": [
+        "Male",
+        "Jazz"
+    ],
+    "Stompin Tom Connors": [
+        "Male",
+        "Country"
+    ],
+    "Supertramp": [
+        "Other",
+        "Pop"
+    ],
+    "Scorpions": [
+        "Other",
+        "Rock"
+    ],
+    "Soundtracks": [
+        "Other",
+        "Movie"
+    ],
+    "Sheryl Crow": [
+        "Female",
+        "Rock"
+    ],
+    "Super Junior": [
+        "Other",
+        "Pop"
+    ],
+    "Shasha Marley": [
+        "Other",
+        "Movie"
+    ],
+    "Seventeen": [
+        "Other",
+        "Movie"
+    ],
+    "Sublime": [
+        "Other",
+        "Rock"
+    ],
+    "Selena Gomez": [
+        "Female",
+        "Pop"
+    ],
+    "Strawberry Shortcake": [
+        "Other",
+        "Movie"
+    ],
+    "Search Amy": [
+        "Other",
+        "Movie"
+    ],
+    "Smiths": [
+        "Other",
+        "Movie"
+    ],
+    "The Big Bang Theory": [
+        "Other",
+        "Movie"
+    ],
+    "The Sound Of Music": [
+        "Other",
+        "Movie"
+    ],
+    "Taylor Swift": [
+        "Female",
+        "Pop"
+    ],
+    "The Beach Boys": [
+        "Other",
+        "Rock"
+    ],
+    "Talking Heads": [
+        "Other",
+        "Pop"
+    ],
+    "Tim Minchin": [
+        "Other",
+        "Movie"
+    ],
+    "Tv Theme": [
+        "Other",
+        "Movie"
+    ],
+    "The Cleveland Show": [
+        "Other",
+        "Movie"
+    ],
+    "The Easter Brothers": [
+        "Other",
+        "Movie"
+    ],
+    "Tom Petty The Heartbreakers": [
+        "Other",
+        "Movie"
+    ],
+    "The Suite Life Of Zack And Cody": [
+        "Other",
+        "Movie"
+    ],
+    "Tool": [
+        "Other",
+        "Rock"
+    ],
+    "Tlc": [
+        "Other",
+        "Movie"
+    ],
+    "Ted Ito": [
+        "Other",
+        "Movie"
+    ],
+    "Taecyeon Suzy Joo Wooyoung Kim So Hyun": [
+        "Other",
+        "Movie"
+    ],
+    "Teresa Teng": [
+        "Female",
+        "Pop"
+    ],
+    "The Resonance": [
+        "Other",
+        "Movie"
+    ],
+    "Tom Lehrer": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Toto": [
+        "Other",
+        "Jazz"
+    ],
+    "The Who": [
+        "Other",
+        "Rock"
+    ],
+    "Tom Waits": [
+        "Male",
+        "Jazz"
+    ],
+    "Teyana Taylor": [
+        "Female",
+        "Jazz"
+    ],
+    "Twenty One Pilots": [
+        "Other",
+        "Pop"
+    ],
+    "Tori Amos": [
+        "Female",
+        "Pop"
+    ],
+    "Tracy Chapman": [
+        "Female",
+        "Folk"
+    ],
+    "Tory Lanez": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Too Hort": [
+        "Other",
+        "Movie"
+    ],
+    "Train": [
+        "Other",
+        "Rock"
+    ],
+    "The Weeknd": [
+        "Male",
+        "Pop"
+    ],
+    "Tom Jones": [
+        "Male",
+        "Pop"
+    ],
+    "Udit Narayan": [
+        "Male",
+        "Pop"
+    ],
+    "Uks National Anthem": [
+        "Other",
+        "Movie"
+    ],
+    "U2": [
+        "Other",
+        "Rock"
+    ],
+    "Ulf Lundell": [
+        "Male",
+        "Rock"
+    ],
+    "Unknown": [
+        "Other",
+        "Movie"
+    ],
+    "Usher": [
+        "Male",
+        "Pop"
+    ],
+    "Utfo": [
+        "Other",
+        "Movie"
+    ],
+    "Ufo": [
+        "Other",
+        "Movie"
+    ],
+    "Used": [
+        "Other",
+        "Pop"
+    ],
+    "Utada Hikaru": [
+        "Female",
+        "Jazz"
+    ],
+    "Ub40": [
+        "Other",
+        "Pop"
+    ],
+    "Uriah Heep": [
+        "Other",
+        "Rock"
+    ],
+    "Urban Zakapa": [
+        "Other",
+        "Pop"
+    ],
+    "Ugly Kid Joe": [
+        "Other",
+        "Rock"
+    ],
+    "Underoath": [
+        "Other",
+        "Metal"
+    ],
+    "Ultra Bra": [
+        "Other",
+        "Pop"
+    ],
+    "Uncle Kracker": [
+        "Other",
+        "Country"
+    ],
+    "Underworld": [
+        "Other",
+        "Pop"
+    ],
+    "Unkle": [
+        "Other",
+        "Hip-Hop"
+    ],
+    "Up Dharma Down": [
+        "Other",
+        "Jazz"
+    ],
+    "Ugk": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Udo Lindenberg": [
+        "Other",
+        "Movie"
+    ],
+    "Ukays": [
+        "Other",
+        "Rock"
+    ],
+    "Ultravox": [
+        "Other",
+        "Pop"
+    ],
+    "Ultima Thule": [
+        "Other",
+        "Movie"
+    ],
+    "Ungu": [
+        "Other",
+        "Pop"
+    ],
+    "Urbandub": [
+        "Other",
+        "Pop"
+    ],
+    "Utopia": [
+        "Other",
+        "Rock"
+    ],
+    "U D O": [
+        "Other",
+        "Metal"
+    ],
+    "Umberto Tozzi": [
+        "Male",
+        "Pop"
+    ],
+    "Van Halen": [
+        "Other",
+        "Rock"
+    ],
+    "Van Morrison": [
+        "Male",
+        "Jazz"
+    ],
+    "Various Artists": [
+        "Other",
+        "Movie"
+    ],
+    "Vince Gill": [
+        "Male",
+        "Country"
+    ],
+    "Valentines Day": [
+        "Other",
+        "Movie"
+    ],
+    "Victory Band": [
+        "Other",
+        "Movie"
+    ],
+    "Vybz Kartel": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Virna Lisa": [
+        "Other",
+        "Movie"
+    ],
+    "Velvet Underground": [
+        "Other",
+        "Rock"
+    ],
+    "Victoria Justice": [
+        "Female",
+        "Pop"
+    ],
+    "Vineyard": [
+        "Other",
+        "Movie"
+    ],
+    "Violent Femmes": [
+        "Other",
+        "Folk"
+    ],
+    "Vengaboys": [
+        "Other",
+        "Pop"
+    ],
+    "Volbeat": [
+        "Other",
+        "Rock"
+    ],
+    "Violetta": [
+        "Male",
+        "Pop"
+    ],
+    "Vanessa Williams": [
+        "Female",
+        "Jazz"
+    ],
+    "Vera Lynn": [
+        "Female",
+        "Pop"
+    ],
+    "Verve": [
+        "Other",
+        "Pop"
+    ],
+    "Veggie Tales": [
+        "Other",
+        "Movie"
+    ],
+    "Vatreni Poljubac": [
+        "Other",
+        "Rock"
+    ],
+    "Vst And Co": [
+        "Other",
+        "Movie"
+    ],
+    "Vampire Weekend": [
+        "Other",
+        "Indie"
+    ],
+    "Venom": [
+        "Other",
+        "Metal"
+    ],
+    "Victoria S": [
+        "Other",
+        "Movie"
+    ],
+    "Village People": [
+        "Other",
+        "R&B"
+    ],
+    "Vickie Winans": [
+        "Other",
+        "Movie"
+    ],
+    "Vanity": [
+        "Female",
+        "Pop"
+    ],
+    "Viktor Vaughn": [
+        "Male",
+        "Metal"
+    ],
+    "Vinnie Paz": [
+        "Male",
+        "Metal"
+    ],
+    "Vangelis": [
+        "Male",
+        "Rock"
+    ],
+    "Will Smith": [
+        "Male",
+        "Jazz"
+    ],
+    "Weird Al Yankovic": [
+        "Male",
+        "Rock"
+    ],
+    "Westlife": [
+        "Other",
+        "Pop"
+    ],
+    "Worshipmusic": [
+        "Other",
+        "Movie"
+    ],
+    "Wiz Khalifa": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Wu Tang Clan": [
+        "Other",
+        "Hip-Hop"
+    ],
+    "Willie Nelson": [
+        "Male",
+        "Jazz"
+    ],
+    "Waylon Jennings": [
+        "Male",
+        "Country"
+    ],
+    "Weezer": [
+        "Other",
+        "Pop"
+    ],
+    "Women Of Faith": [
+        "Other",
+        "Movie"
+    ],
+    "Wolfe Tones": [
+        "Other",
+        "Rock"
+    ],
+    "Walk The Moon": [
+        "Other",
+        "Movie"
+    ],
+    "Wiley": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Ween": [
+        "Other",
+        "Rock"
+    ],
+    "Whitney Houston": [
+        "Female",
+        "Pop"
+    ],
+    "Warren Zevon": [
+        "Male",
+        "Rock"
+    ],
+    "Wet Wet Wet": [
+        "Other",
+        "Pop"
+    ],
+    "Whitesnake": [
+        "Other",
+        "Rock"
+    ],
+    "Willy Wonka": [
+        "Other",
+        "Movie"
+    ],
+    "Wilco": [
+        "Other",
+        "Country"
+    ],
+    "Wasp": [
+        "Other",
+        "Rock"
+    ],
+    "Wrestling Lyrics": [
+        "Other",
+        "Movie"
+    ],
+    "Waterboys": [
+        "Other",
+        "Rock"
+    ],
+    "Wale": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Wishbone Ash": [
+        "Other",
+        "Rock"
+    ],
+    "Wreckless Eric": [
+        "Male",
+        "Rock"
+    ],
+    "Woody Guthrie": [
+        "Male",
+        "Country"
+    ],
+    "Westwood Primary": [
+        "Other",
+        "Movie"
+    ],
+    "Wizards Of Waverly Place": [
+        "Other",
+        "Movie"
+    ],
+    "Willow Smith": [
+        "Female",
+        "Pop"
+    ],
+    "X Ray Spex": [
+        "Other",
+        "Rock"
+    ],
+    "Xtc": [
+        "Other",
+        "Pop"
+    ],
+    "Xcrew": [
+        "Other",
+        "Movie"
+    ],
+    "Xavier Naidoo": [
+        "Male",
+        "Pop"
+    ],
+    "X Raided": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Xzibit": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "X Japan": [
+        "Other",
+        "Rock"
+    ],
+    "X": [
+        "Other",
+        "Rock"
+    ],
+    "X Ambassadors": [
+        "Other",
+        "Rock"
+    ],
+    "Xavier Rudd": [
+        "Male",
+        "Folk"
+    ],
+    "Xscape": [
+        "Other",
+        "Hip-Hop"
+    ],
+    "Xyz": [
+        "Other",
+        "Movie"
+    ],
+    "X Treme": [
+        "Other",
+        "Movie"
+    ],
+    "X Wild": [
+        "Other",
+        "Movie"
+    ],
+    "Ximena Sariana": [
+        "Other",
+        "Movie"
+    ],
+    "Xo": [
+        "Other",
+        "Movie"
+    ],
+    "Xtreme": [
+        "Other",
+        "Movie"
+    ],
+    "Xutos Pontaps": [
+        "Other",
+        "Movie"
+    ],
+    "Xv": [
+        "Other",
+        "Movie"
+    ],
+    "X Crew": [
+        "Other",
+        "Movie"
+    ],
+    "X Ecutioners": [
+        "Other",
+        "Movie"
+    ],
+    "X Perience": [
+        "Other",
+        "Movie"
+    ],
+    "Xentrix": [
+        "Other",
+        "Metal"
+    ],
+    "Xian Lim": [
+        "Other",
+        "Movie"
+    ],
+    "Xiu Xiu": [
+        "Other",
+        "Rock"
+    ],
+    "Xl5": [
+        "Other",
+        "Movie"
+    ],
+    "Xxl": [
+        "Other",
+        "Movie"
+    ],
+    "X 2 C": [
+        "Other",
+        "Movie"
+    ],
+    "X 5": [
+        "Other",
+        "Movie"
+    ],
+    "X Cite": [
+        "Other",
+        "Movie"
+    ],
+    "Yes": [
+        "Other",
+        "Rock"
+    ],
+    "Yui": [
+        "Female",
+        "Pop"
+    ],
+    "Young Thug": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Yuna Ito": [
+        "Female",
+        "Pop"
+    ],
+    "Yelawolf": [
+        "Male",
+        "Rock"
+    ],
+    "Yo Gotti": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Young Cash": [
+        "Other",
+        "Movie"
+    ],
+    "Young Stunners": [
+        "Other",
+        "Movie"
+    ],
+    "Youthful Praise": [
+        "Other",
+        "Movie"
+    ],
+    "Yg": [
+        "Other",
+        "Movie"
+    ],
+    "Yano": [
+        "Other",
+        "Rock"
+    ],
+    "Yolanda Adams": [
+        "Female",
+        "R&B"
+    ],
+    "Yuki Koyanagi": [
+        "Female",
+        "Pop"
+    ],
+    "Y": [
+        "Other",
+        "Movie"
+    ],
+    "Yeng Constantino": [
+        "Female",
+        "Pop"
+    ],
+    "Yoyoy Villame": [
+        "Other",
+        "Movie"
+    ],
+    "Yoko Ono": [
+        "Female",
+        "Pop"
+    ],
+    "Young Dro": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Yeah Yeah Yeahs": [
+        "Other",
+        "Rock"
+    ],
+    "Yngwie Malmsteen": [
+        "Other",
+        "Rock"
+    ],
+    "Yuna": [
+        "Female",
+        "Pop"
+    ],
+    "Young Mc": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Young The Giant": [
+        "Other",
+        "Pop"
+    ],
+    "Ylintu": [
+        "Other",
+        "Movie"
+    ],
+    "Young Buck": [
+        "Male",
+        "Hip-Hop"
+    ],
+    "Yves Larock": [
+        "Male",
+        "Rock"
+    ],
+    "Yo La Tengo": [
+        "Other",
+        "Indie"
+    ],
+    "Yonder Mountain String Band": [
+        "Other",
+        "Country"
+    ],
+    "You Am I": [
+        "Other",
+        "Rock"
+    ],
+    "Yt": [
+        "Other",
+        "Movie"
+    ],
+    "Zac Brown Band": [
+        "Other",
+        "Country"
+    ],
+    "Zayn Malik": [
+        "Male",
+        "Pop"
+    ],
+    "Zz Top": [
+        "Other",
+        "Rock"
+    ],
+    "Zedd": [
+        "Male",
+        "Pop"
+    ],
+    "Zucchero": [
+        "Male",
+        "Pop"
+    ],
+    "Zard": [
+        "Other",
+        "Pop"
+    ],
+    "Z Ro": [
+        "Other",
+        "Movie"
+    ],
+    "Zero 7": [
+        "Other",
+        "Jazz"
+    ],
+    "Zakk Wylde": [
+        "Male",
+        "Rock"
+    ],
+    "Zain Bhikha": [
+        "Other",
+        "Movie"
+    ],
+    "Zeca Pagodinho": [
+        "Other",
+        "Movie"
+    ],
+    "Zelle": [
+        "Other",
+        "Pop"
+    ],
+    "Zhang Li Yin": [
+        "Female",
+        "Pop"
+    ],
+    "Ziggy Marley": [
+        "Other",
+        "Movie"
+    ],
+    "Zoo": [
+        "Other",
+        "Movie"
+    ],
+    "Zebrahead": [
+        "Other",
+        "Pop"
+    ],
+    "Zafar Ali": [
+        "Other",
+        "Movie"
+    ],
+    "Zager And Evans": [
+        "Other",
+        "Movie"
+    ],
+    "Zane Campbell": [
+        "Other",
+        "Movie"
+    ],
+    "Zacarias Ferreira": [
+        "Other",
+        "Movie"
+    ],
+    "Zao": [
+        "Other",
+        "Metal"
+    ],
+    "Zdravko Colic": [
+        "Male",
+        "Pop"
+    ],
+    "Zea": [
+        "Other",
+        "Movie"
+    ],
+    "Zhang Ziyi": [
+        "Other",
+        "Movie"
+    ],
+    "Zipso": [
+        "Other",
+        "Movie"
+    ],
+    "Zazie": [
+        "Female",
+        "Pop"
+    ],
+    "Zhane": [
+        "Other",
+        "Hip-Hop"
+    ],
+    "Zoom": [
+        "Other",
+        "Movie"
+    ],
+    "Zachary Richard": [
+        "Other",
+        "Movie"
+    ],
+    "Zap Mama": [
+        "Other",
+        "Movie"
     ]
 }
